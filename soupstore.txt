@@ -1,0 +1,3664 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- hostname: wci064, country: in, cluster: ind, created: 2014-05-15 09:40:46 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://developers.facebook.com/schema/" >
+<head>
+ <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+ <meta name="google-site-verification" content="ZxdgH3XglRg0Bsy-Ho2RnO3EE4nRs53FloLS6fkt_nc" />
+ <title>1st match: Kolkata Knight Riders v Delhi Daredevils at Kolkata, Apr 3, 2013 | Cricket Player v player | ESPN Cricinfo</title>
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+ <meta name="keywords" content="Kolkata Knight Riders v Delhi Daredevils, Live cricket score, Eden Gardens, Kolkata, Kolkata, Twenty20 matches" />
+ 
+ <meta name="description" content="Cricket scores for Indian Premier League, 1st match: Kolkata Knight Riders v Delhi Daredevils at Kolkata, Apr 3, 2013" />
+<!--[if IE 9]>
+<script language="javascript" type="text/javascript">
+function fnCreateJumpList(iScenario) {
+fnClearJumpList();
+window.external.msSiteModeCreateJumpList("Quick Links")
+window.external.msSiteModeAddJumpListItem('ESPNcricinfo apps', 'http://www.espncricinfo.com/ci/content/current/url/669863.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Ask Sanjay', 'http://www.espncricinfo.com/ci/content/current/url/721095.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Points Table', 'http://www.espncricinfo.com/ci/content/current/url/739411.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Cricket on Twitter', 'http://www.espncricinfo.com/ci/content/current/url/729489.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Play Fantasy', 'http://www.espncricinfo.com/ci/content/current/url/737353.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Play CricIQ', 'http://www.espncricinfo.com/ci/content/current/url/737655.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Eng v SL', 'http://www.espncricinfo.com/england-v-sri-lanka-2014/content/current/series/667875.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Pepsi IPL', 'http://www.espncricinfo.com/indian-premier-league-2014/content/current/series/695871.html', '/favicon.ico');window.external.msSiteModeShowJumpList();
+}
+function fnClearJumpList() {
+window.external.msSiteModeClearJumplist();
+}
+</script>
+
+<meta name="msapplication-task" content="name=Live Scores;action-uri=http://www.espncricinfo.com/ci/engine/current/match/scores/live.html;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Latest News;action-uri=http://www.espncricinfo.com/ci/content/current/story/news.html;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Fixtures;action-uri=http://www.espncricinfo.com/ci/content/current/match/fixtures/index.html;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Results;action-uri=http://www.espncricinfo.com/ci/engine/current/match/scores/recent.html;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Photos;action-uri=http://www.espncricinfo.com/ci/content/current/image/index.html;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Audio/Video;action-uri=http://www.espncricinfo.com/ci/content/video_audio/index.html;icon-uri=/favicon.ico"/>
+<script language="javascript" type="text/javascript">
+        fnCreateJumpList(2);
+</script>
+<![endif]-->
+
+ <meta name="robots" content="index, follow" />
+ <meta name="googlebot" content="index, follow" /><meta property="og:title" content="Kolkata Knight Riders v Delhi Daredevils, Kolkata"/>
+<link rel="canonical" href="http://www.espncricinfo.com/indian-premier-league-2013/engine/current/match/597998.html" />
+<meta property="og:url" content="http://www.espncricinfo.com/indian-premier-league-2013/engine/current/match/597998.html" />
+<meta property="og:site_name" content="Cricinfo" />
+<meta property="og:type" content="article"/>
+<meta property="fb:admins" content="507509800,543647230,521294616,502164596,548845180,100000100658108,738070288" />
+<link rel="image_src" href="http://i.imgci.com/espncricinfo/facebook/3.jpg" />
+<meta property="og:image" content="http://i.imgci.com/espncricinfo/facebook/3.jpg" />
+
+ <meta property="og:image" content="http://i.imgci.com/espncricinfo/facebook/3.jpg" />
+ <link rel="image_src" href="http://i.imgci.com/espncricinfo/facebook/3.jpg" />
+
+ <link rel="shortcut icon" href="/favicon.ie9new.ico" />
+ <link rel="icon" type="image/png" href="/favicon.png" />
+ <link rel="icon" type="image/gif" href="/favicon.gif" />
+
+ <link rel="apple-touch-icon" href="http://i.imgci.com/espncricinfo/ci_apple_webclip.png"/>
+<meta property="fb:app_id" content="260890547115" />
+<meta property="og:site_name" content="Cricinfo" />
+<!-- Cricinfo Global News RSS feed link -->
+<link href="/rss/content/story/feeds/0.xml" rel="alternate" type="application/rss+xml" title="Global News RSS Feed" />
+<link href="/rss/livescores.xml" rel="alternate" type="application/rss+xml" title="Cricinfo live scores RSS feed" />
+
+<link rel="stylesheet" type="text/css" href="/navigation/cricinfo/ci/global.css?1395298691"/>
+
+<script language="javascript" type="text/javascript">
+	if(navigator.userAgent.indexOf('Linux') != -1) { 
+		var linux = '/navigation/cricinfo/ci/global_linux.css?1359981014';
+		var linuxcss=document.createElement("link");
+		linuxcss.setAttribute("rel", "stylesheet");
+		linuxcss.setAttribute("type", "text/css");
+		linuxcss.setAttribute("href", linux);
+		document.getElementsByTagName("head")[0].appendChild(linuxcss);
+	}
+</script>
+ <link rel="stylesheet" type="text/css" href="/navigation/cricinfo/ci/scorecard.css?1358924802"/>
+ <link rel="stylesheet" type="text/css" href="/navigation/cricinfo/ci/pulse-hawkeye.css"/>
+ <script language="javascript" type="text/javascript" src="/navigation/cricinfo/ci/flash-detect.js"></script> 
+
+ <script language="javascript" type="text/javascript" src="/navigation/cricinfo/ci/jquery-1.7.2.min.js"></script>
+ <script language="javascript" type="text/javascript" src="/navigation/cricinfo/ci/default.js?1395231344"></script>
+
+ <script language="javascript" type="text/javascript" src="/navigation/cricinfo/ci/scorecard.js?1366629718"></script>
+ <script language="javascript" type="text/javascript" src="/navigation/cricinfo/ci/ui.accordion.js"></script>
+ <!--<script language="javascript" type="text/javascript" src="http://widgets.clearspring.com/launchpad/include.js"></script>-->
+<script src="http://a.espncdn.com/combiner/c?js=plugins/jquery.metadata.js,plugins/jquery.pubsub.r5.js,plugins/ba-debug-0.4.js,espn.l10n.r12.js,espn.core.duo.r55.js,espn.storage.r6.js,espn.p13n.r16.js,cricinfo/espn.video.r82.6.js"></script>
+
+<script language="javascript"  type="text/javascript">
+	if (typeof $ === 'undefined'){	
+		var $ = jQuery;
+	}
+	ord=Math.random()*10000000000000000;
+	var ad_counter = 1;
+
+	cqanswer = 'in';
+	location_country = 'in';
+	location_cluster = 'ind';
+</script>
+
+	<script type="text/javascript" src="/navigation/cricinfo/ci/mobileweb/smartphone/javascripts/v1/fanatix-interstitial.js?13"></script>
+	
+
+<meta name="application-name" content="ESPNcricinfo"/>
+<meta name="msapplication-TileColor" content="#266ab4"/>
+<meta name="msapplication-TileImage" content="http://i.imgci.com/espncricinfo/6b245241-3938-499c-8c79-9b80f97bed96.png"/>
+
+
+
+</head>
+<body
+
+>
+
+
+
+
+
+
+<div id="ciMainContainer">
+
+
+
+ <div id="ciHomeMastContainer">
+
+ 	
+ <div id="ciHomeLeaderboard">
+
+<div class="bnrHldr">
+
+
+<script language="JavaScript" type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/N6444/adj/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=728x90,970x250;kvpos=;ord=' + ord + '?" type="text/javascript"><\/script>');
+ad_counter++;
+</script>
+<noscript><a href="http://ad.doubleclick.net/N6444/jump/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=728x90,970x250;kvpos=;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/N6444/ad/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=728x90,970x250;kvpos=;ord=123456789?" border="0" alt=""></a></noscript>
+
+
+
+
+   </div>
+
+   <div class="slot210Hldr">
+
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="210" height="70"><param name="wmode" value="transparent">
+	<param name="movie" value="http://i.imgci.com/homepage/india/AsianPaints_Ultima_Protek_CDC.swf"><param name="quality" value="high">
+	<embed src="http://i.imgci.com/homepage/india/AsianPaints_Ultima_Protek_CDC.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="210" height="70" wmode="transparent"></embed></object>
+
+    </div>
+
+  </div>
+<style type="text/css">
+a.FB_Link:hover {
+	color:#1B7BDD!Important;
+}
+.fb_iframe_widget span { height: 16px!important; }
+
+</style>
+<!--facebook connect-->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '260890547115', // App ID
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true,  // parse XFBML
+      oauth      : true
+    });
+
+    updateMasthead();
+
+    FB.Event.subscribe('auth.logout', function(){
+      removeCookie('fbid','/','.espncricinfo.com');
+    });
+
+    FB.Event.subscribe('auth.login', function(a){ 
+      setCookie('fbid',a.authResponse.userID || FB._userID,null,'/','.espncricinfo.com');
+    });
+
+  };
+
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+
+<script type="text/javascript">
+var globalFBConnect = false;
+jQuery(document).ready(function($){
+	var fb_cookies = getCookie("fbsr_260890547115");
+	var authcookie = getCookie("CI_Pub_data");
+	if((fb_cookies || globalFBConnect) && !authcookie){
+		if (typeof(FB) !== 'undefined'){updateMasthead();}
+	}
+	
+});		
+var server = "submit.espncricinfo.com";
+    
+/* Login Valdation */
+
+//----------------------------------------------------------
+//      create cookie
+//----------------------------------------------------------
+function setCookie( name, value, expires, path, domain, secure ) {
+
+var today = new Date();
+
+    today.setTime( today.getTime() );
+    if ( expires ) {
+        expires = expires * 1000 * 60 * 60 * 24;
+     }
+
+     var expires_date = new Date( today.getTime() + (expires) );
+
+     document.cookie = name+'='+escape( value ) + 
+                       ( ( expires ) ? ';expires='+expires_date.toGMTString() : '' ) + 
+                       ( ( path ) ? ';path=' + path : '' ) +
+                       ( ( domain ) ? ';domain=' + domain : '' ) +
+                       ( ( secure ) ? ';secure' : '' );
+
+}
+
+//----------------------------------------------------------
+//      check if cookie defined 
+//----------------------------------------------------------
+function getCookie(name) {
+
+    var start = document.cookie.indexOf( name + "=" );
+    var len = start + name.length + 1;
+
+    if ( ( !start ) && ( name != document.cookie.substring( 0, name.length ) ) ) {
+       return null;
+    }
+
+    if ( start == -1 ) return null;
+    var end = document.cookie.indexOf( ';', len );
+    if ( end == -1 ) end = document.cookie.length;
+    return unescape( document.cookie.substring( len, end ) );
+}
+
+//------------------------------------------------------------
+//      Remove cookie
+//------------------------------------------------------------
+function removeCookie(  name, path, domain) {
+    if ( getCookie( name ) )
+	{
+        document.cookie = name + '=' + ( ( path ) ? ';path=' + path : '') + ( ( domain ) ? ';domain=' + domain : '' ) + ';expires=Thu, 01-Jan-1970 00:00:01 GMT';
+	}
+}
+//------------------------------------------------------------
+//      Get the domain name
+//------------------------------------------------------------
+function getDomainname () {
+    var hostname = window.location.hostname.split('.');
+    if ( hostname.length >= 2 ) {
+        var len = hostname.length;
+        var domainname = '.' +  hostname[len - 2] + '.' + hostname[len - 1];
+    } else {
+        var domainname = '.' + window.location.hostname;
+    }
+    return domainname;
+}
+
+//------------------------------------------------------------
+//      Logout
+//------------------------------------------------------------
+function logoutUser () {
+    var domainname = getDomainname();
+    removeCookie("un" , '/', domainname );
+    removeCookie("CI_Pub_data" , '/' , domainname);
+    removeCookie("uid" , '/', domainname );
+
+	window.location.reload(true);
+
+
+	return false;
+    jQuery('#ciMemebermgmt').html(welcome_content);
+
+
+	
+}
+
+//-------------------------------------------------------------
+//      Validate search filed
+//-------------------------------------------------------------
+function validateData() {
+	if ( txt_data == "") {
+		window.location.href = "/ci/content/site/search.html";
+		return false;
+	}
+	if ( txt_data == "Search Cricinfo") {
+		window.location.href = "/ci/content/site/search.html";
+		return false;
+	}
+	return true;
+}
+//----------------------------------------------------------
+//  Login validate
+//----------------------------------------------------------
+function ciLoginvalidate(){
+
+  if(document.ciloginfm.email.value=="") {
+    alert("Please enter your email id.");
+    document.ciloginfm.email.focus();
+    document.ciloginfm.email.select();
+    return false;
+  }
+  var emailexp = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+  if (emailexp.test(document.ciloginfm.email.value.replace(/\s/g,""))== false) {
+    alert("Please enter your email id.");
+    window.document.ciloginfm.email.focus();
+    document.ciloginfm.email.select();
+    return false;
+  }
+  if(document.ciloginfm.password.value=="") {
+    alert("Please enter Password.");
+    document.ciloginfm.password.focus();
+    document.ciloginfm.password.select();
+    return false;
+  }
+
+  if(document.ciloginfm.remember.checked) {
+    var rem = 'Y';
+  } else {
+    var rem = 'N';
+  }
+
+
+
+  var un = document.ciloginfm.email.value;
+  var pass =document.ciloginfm.password.value;
+  var url = 'http://' + server + '/member_mgmt/content/submit/member_mgmt/login_validate.html?callback=?';
+  jQuery.getJSON( url , { email: un, password: pass, remember: rem },
+        function(msg){
+            if ( msg.status == 1 ) {
+                if ( msg.username == "" ) {
+                    var href = 'http://' + server + '/member_mgmt/content/submit/member_mgmt/user_screenname.html?remember=' + rem + ';thanks=' + "http://www.espncricinfo.com/indian-premier-league-2013/engine/match/597998.html"
+		            window.location.href = href;
+                    return false;
+                }
+                hideTooltip('divLoginpopup');
+                var welcome_user = '<ul><li>Welcome <b>' + msg.username + '</b></li><li class="signin"><a href="/member_mgmt/content/submit/member_mgmt/user_registration.html" class="signintxt">Edit Profile</a></li> | <li class="signin"> <a href="#" class="signintxt"> <span onClick="logoutUser();">Sign Out</span> </a> </li> </ul>';
+
+    		jQuery('#ciMemebermgmt').html(welcome_user);
+    
+
+           } else {
+                alert (msg.message);
+                return false;
+           }
+          });
+   return false;
+}
+
+
+</script>
+
+<div id="ciHomeLogoholder">
+ <div style="position:relative;width:375px;float:left;margin-bottom:-5px; z-index: 100000;">
+<a style="background:none;margin-top:10px;" id="link" href="/" title="ESPN Cricinfo"><img src="http://i.imgci.com/espncricinfo/espncricinfologo.png" width="260px" height="35px"/></a>
+
+
+<span style="display: block; width: 90px; height:20px; position: absolute; left:310px; top:24px; z-index: 999999; overflow: hidden;">
+<fb:like href="http://www.facebook.com/Cricinfo" send="false" layout="button_count" width="450" show_faces="false" font="tahoma" style="position:absolute; top:0; left:0; width:90px; overflow: hidden;"></fb:like>
+</span>
+
+ </div>
+
+<div class="ciMemebermgmt" id="ciMemebermgmt">
+<ul style="display:inline-block; width:300px;">
+
+<script type="text/javascript">
+var fb_cookies = getCookie("fbsr_260890547115");
+
+var welcome_content =  '<ul style="display:inline-block; width:300px;"><li style="color:#0D82E9; font-size:11px; padding-bottom:5px; padding-bottom:5px; margin:0;">Welcome Guest </li><li class="signin" style="float:left"><a href="#" class="signintxt" onclick="javascript:return showTooltip(this,\'divLoginpopup\');">Sign In&nbsp;<blockquote class="signArrow">&nbsp;&nbsp;&nbsp;</blockquote></a> | </li>  <li class="signin" style="float:left"><a href="/member_mgmt/content/submit/member_mgmt/user_registration.html?sc=masthead" class="signintxt">Register</a></li>';
+
+
+welcome_content = welcome_content + '<li class="signin"><fb:login-button onlogin=window.location.reload(true); autologoutlink="false" size="small" style="position:absolute; top:16px; left:117px;" show-faces="false"></fb:login-button></li></ul>';
+	
+
+var authcookie = getCookie("CI_Pub_data");
+
+if ( authcookie != null ) 
+{
+    var user_name = getCookie('un');
+    if ( user_name == null ) 
+	{
+        var domainname = getDomainname();
+        removeCookie("CI_Pub_data" , '/' , domainname);
+        document.write(welcome_content);
+    } 
+	else 
+	{
+        var login_content = '<li>Welcome <b>' + user_name + '</b></li>';
+        document.write(login_content);
+        document.write('<li class="signin"><a href="/member_mgmt/content/submit/member_mgmt/user_registration.html" class="signintxt">Edit Profile</a></li> | <li class="signin"><a href="#" class="signintxt"><span onClick="logoutUser();">Sign Out</span></a></li>');
+    }
+} 
+else if (fb_cookies != null || globalFBConnect != false)
+{
+	
+	var login_content = '<span style="color:#0D82E9; font-size:11px; padding-bottom:5px; padding-bottom:5px; margin:0;">Welcome <img src="http://i.imgci.com/espncricinfo/connect_fb_icon.png" src="Facebook Connect" style="position:relative; top:3px;"/> <b><fb:name id="fbname" uid="loggedinuser" useyou="false" style="padding-top: 3px; display: inline-block;"></fb:name><br /><a href="javascript:void(0)" id="fbLogout" onclick="FB.logout(function(response){ globalFBConnect = false; removeCookie(\'fbsr_260890547115\',\'/\',getDomainname()); if(jQuery(\'#comment_frame\').length==1){ window.location.reload(true); return false; } jQuery(\'#ciMemebermgmt\').html(welcome_content); FB.XFBML.parse(); });" style="top: 5px; position:relative; font-weight:normal; cursor:pointer;">Sign Out</a></b></span>';
+
+	document.write(login_content);
+}
+else  
+{
+    document.write(welcome_content);
+}
+
+function updateMasthead(){
+	var fb_cookies = getCookie("fbsr_260890547115");
+	var authcookie = getCookie("CI_Pub_data");		
+	
+	updateUserInfo();
+}
+function updateUserInfo(){
+	var fbNameCheck = jQuery('#fbname').text();
+	var txt = jQuery('#newfb').text();
+  if(fbNameCheck.length){
+    return false;
+  }
+	FB.getLoginStatus(function(response) {
+		if (response.status === 'connected'){
+      globalFBConnect = true;
+			if(fb_cookies || globalFBConnect){
+				if(!authcookie && fbNameCheck.length==0){
+					var welcome_content = '&nbsp;|&nbsp;<fb:login-button onlogin="window.location.reload(true);" autologoutlink="false" size="small" style="margin-left:2px;"></fb:login-button>';
+					if(jQuery('#fbname').children('a').text() == ''){
+						jQuery('#ciMemebermgmt').html('<span style="color:#0D82E9; font-size:11px; padding-bottom:5px;">Welcome <img src="http://i.imgci.com/espncricinfo/connect_fb_icon.png" src="Facebook Connect" style="position:relative; top:3px;"/> <b><fb:name id="fbname" uid="loggedinuser" useyou="false"></fb:name><br /><a href="javascript:void(0)" id="fbLogout2" onclick="FB.logout(function(response){ globalFBConnect = false; removeCookie(\'fbsr_260890547115\',\'/\',getDomainname()); if(jQuery(\'#comment_frame\').length==1){ window.location.reload(true); } jQuery(\'#ciMemebermgmt\').html(welcome_content); FB.XFBML.parse(); });" style="top: 5px; position:relative; font-weight:normal; cursor:pointer;">Sign Out</a></b></span>');
+						FB.XFBML.parse()
+					}
+					if(txt.indexOf('Post')<0){
+						jQuery('#newfb').html('<span id="newfb"><a href="#comment_frame"><span style="color:#035BAC; margin-left:2px;">Post yours as</span></a> <img src="http://i.imgci.com/espncricinfo/connect_fb_icon.png" style="margin-right: 2px; vertical-align: bottom; border: medium none;"> <b><fb:name id="fbname" uid="loggedinuser" useyou="false"></fb:name></b> <span class="seprator">|</span> </span>');
+					}		
+					FB.XFBML.parse();
+				}
+			}
+		}
+		else{
+			if(!fb_cookies && !authcookie && !globalFBConnect){
+				jQuery('#ciMemebermgmt').html('<ul style="display:inline-block;width:300px;"><li style="color:#0D82E9; font-size:11px; padding-bottom:5px; padding-bottom:5px; margin:0;">Welcome Guest </li><li class="signin" style="float:left"><a href="#" class="signintxt" onclick="javascript:return showTooltip(this,\'divLoginpopup\');">Sign In&nbsp;<blockquote class="signArrow">&nbsp;&nbsp;&nbsp;</blockquote></a>&nbsp;|&nbsp;</li> <li class="signin" style="margin:0;float:left" ><a href="/member_mgmt/content/submit/member_mgmt/user_registration.html?sc=masthead" class="signintxt">Register</a>&nbsp;|&nbsp;</li><li class="signin"><fb:login-button onlogin="window.location.reload(true);" autologoutlink="false" size="small" style="margin-left:2px;float:left;" show-faces="false"></fb:login-button></li></ul>' );
+				FB.XFBML.parse();
+			}
+		}
+	});
+}
+</script>
+</ul>
+</div>
+
+
+<!-- SEARCH -->
+
+<!-- This Condition added to test below ENDECA SEARCH FORM-->
+ <div class="ciGlobalSearch">
+  <form method="get" enctype="application/x-www-form-urlencoded" action="/ci/content/site/search.html" onSubmit="return  validateData()";>
+   <div class="ciGblSearchhldr">
+    <input class="glbSearchBox" name="search" id="cricinfoSearch" type="text" value="Search" onfocus="return searchClrTxt('cricinfoSearch');" onblur="if ($(this).val()=='' ){$(this).attr('value','Search');}" /> <input type="submit" name="gblsearch" class="gblSearchBtn" value="" />
+   </div>
+  </form>
+  <div class="ciGblHotSearch">
+   <span class="HotsearchHead">Popular:</span>
+<a href="/australia/content/player/325026.html">Glenn Maxwell</a>
+
+|
+
+<a href="/india/content/player/36084.html">Yuvraj Singh</a>
+
+|
+
+<a href="/indian-premier-league-2014/engine/series/695871.html?view=pointstable">IPL Points Table</a>
+
+
+<!--
+<a href="/australia/content/player/325026.html">Glenn Maxwell</a>
+<a href="/india/content/player/36084.html">Yuvraj Singh</a>
+<a href="/india/content/player/587152.html">Pravin Tambe</a>
+<a href="/india/content/player/30732.html">Praveen Kumar</a>
+<a href="/india/content/player/31107.html">Amit Mishra</a>
+<a href="/india/content/player/253802.html">Virat Kohli</a>
+<a href="/india/content/player/438362.html">Sandeep Sharma</a>
+<a href="/india/content/player/34102.html">Rohit Sharma</a>
+<a href="/india/content/player/28081.html">MS Dhoni</a>
+<a href="/india/content/player/35320.html">Sachin Tendulkar</a>
+<a href="/rankings/content/page/211271.html">ICC Rankings</a>
+<a href="/indian-premier-league-2014/engine/series/695871.html?view=pointstable">IPL Points Table</a>
+<a href="/indian-premier-league-2014/content/series/695871.html">IPL</a>
+-->
+  </div>
+<!-- Search box ends -->
+</div>
+
+
+<!-- Logo and Search ends -->
+ <!-- login div -->
+  <div class="ciloginpopup" id="divLoginpopup" style="display:none;">
+   <span class="signintxt"><b>Sign In </b><blockquote class="signArrow">&nbsp;&nbsp;&nbsp;</blockquote></span><br/>
+   <div id="loginClose"><b title="Close" alt="Close" onclick="hideTooltip('divLoginpopup');">x</b></div>
+   <form onSubmit="return ciLoginvalidate();" method="post" name="ciloginfm" id="ciloginfm" style="margin:0px; margin-top:4px; padding:0px;">
+    <ul id="cilogintxt" style="margin:0px;padding:0px">
+     <li>Email</li>
+     <li><input name="email" class="citextbox" id="email" type="text"></li>
+     <li>Password</li>
+     <li><input name="password" id="password" class="citextbox" type="password"></li>
+     <li><input name="remember" id="remember" type="checkbox" value="Y" style="margin:2px 0px 2px 1px;_margin:0px;#margin:0px"> <span style="font-size:10px; color:#666666; font-weight:normal;">Remember me</span></li>
+     <li class="button" style="#margin-top:0px;#padding-top:0px;_margin-top:0px;_padding-top:0px;"><input type="submit" class="ciHPLoginBtn" value="" name="logio_submit" id="logio_submit" / ></li>
+     <li id="ciforgotpwdtxt"><a href="javascript:void(0)" class="forgotpwdtxt" onclick="javascript:window.open('/ci/content/submit/member_mgmt/forgot_password.html','plyr_pop','width=600,height=390,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no');">Forgot Password?</a></li>
+    </ul>
+   </form>
+  </div>
+
+
+ </div> 
+
+ </div>
+
+
+
+
+<div id="mainNavRow">
+<div id="mainNav">
+ <table cellpadding="0" cellspacing="0" border="0" class="Nav"><tr>
+	<td width="28" height="25" class="navHomeBtn"><a href="/" alt="Home" title="Home" style="width:28px; height:25px; display:block;"></a></td>
+     <td class="navLinks" onmouseover="mopen('m0')" onmouseout="mclosetime()">
+      <a href="/ci/content/current/match/fixtures_futures.html" class="NavLink">Series</a>
+      <div id="m0">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/ci/content/current/match/fixtures_futures.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=series">Series</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="270" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td colspan="1" height="10"></td>
+           </tr>
+           <tr>
+            <td width="270"><a href="/england-v-sri-lanka-2014/content/current/series/667875.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=series_englandvsrilanka">England v Sri Lanka</a></td>
+           </tr>
+           <tr>
+            <td><a href="/west-indies-v-new-zealand-2014/content/current/series/730257.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=series_westindiesvnewzealand">West Indies v New Zealand</a></td>
+           </tr>
+           <tr>
+            <td><a href="/county-cricket-2014/content/current/series/679433.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=series_countycricket">County Cricket</a></td>
+           </tr>
+           <tr>
+            <td><a href="/indian-premier-league-2014/content/current/series/695871.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=series_pepsiindianpremierleague">Pepsi Indian Premier League</a></td>
+           </tr>
+           <tr>
+            <td><a href="/ci/content/current/match/fixtures_futures.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=series_morecurrentandfutureseries">More current and future series</a></td>
+           </tr>
+           <tr>
+            <td colspan="5" height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+     <td class="navLinks" onmouseover="mopen('m1')" onmouseout="mclosetime()">
+      <a href="/ci/content/site/cricket_squads_teams/index.html" class="NavLink">Countries</a>
+      <div id="m1">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/ci/content/site/cricket_squads_teams/index.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=countries">Countries</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="345" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td colspan="5" height="10"></td>
+           </tr>
+           <tr>
+            <td width="90"><a href="/australia/content/current/team/2.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_australia">Australia</a></td>
+            <td rowspan="10" width="10" class="Dotts"></td>
+            <td width="90"><a href="/afghanistan/content/current/team/40.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_afghanistan">Afghanistan</a></td>
+            <td rowspan="10" width="10" class="Dotts"></td>
+            <td width="145"><a href="/other/content/current/site/207463.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_othercountries">Other Countries</a></td>
+           </tr>
+           <tr>
+            <td><a href="/bangladesh/content/current/team/25.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_bangladesh">Bangladesh</a></td>
+            <td><a href="/hkg/content/current/team/19.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_hongkong">Hong Kong</a></td>
+            <td><a href="/women/content/current/site/207455.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_women'scricket">Women's Cricket</a></td>
+           </tr>
+           <tr>
+            <td><a href="/england/content/current/team/1.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_england">England</a></td>
+            <td><a href="/ireland/content/current/team/29.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_ireland">Ireland</a></td>
+            <td><a href="/ci-icc/content/current/site/297120.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_icc">ICC</a></td>
+           </tr>
+           <tr>
+            <td><a href="/india/content/current/team/6.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_india">India</a></td>
+            <td><a href="/png/content/current/team/20.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_png">PNG</a></td>
+            <td><a href="/canada/content/current/team/17.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_canada">Canada</a></td>
+           </tr>
+           <tr>
+            <td><a href="/newzealand/content/current/team/5.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_newzealand">New Zealand</a></td>
+            <td><a href="/scotland/content/current/team/30.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_scotland">Scotland</a></td>
+            <td><a href="/kenya/content/current/team/26.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_kenya">Kenya</a></td>
+           </tr>
+           <tr>
+            <td><a href="/pakistan/content/current/team/7.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_pakistan">Pakistan</a></td>
+            <td><a href="/uae/content/current/team/27.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_uae">UAE</a></td>
+            <td><a href="/netherlands/content/current/team/15.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_netherlands">Netherlands</a></td>
+           </tr>
+           <tr>
+            <td><a href="/southafrica/content/current/team/3.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_southafrica">South Africa</a></td>
+            <td><a href="" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_"></a></td>
+            <td><a href="/nepal/content/current/team/33.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_nepal">Nepal</a></td>
+           </tr>
+           <tr>
+            <td><a href="/srilanka/content/current/team/8.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_srilanka">Sri Lanka</a></td>
+            <td><a href="" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_"></a></td>
+            <td><a href="/usa/content/current/team/11.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_usa">USA</a></td>
+           </tr>
+           <tr>
+            <td><a href="/westindies/content/current/team/4.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_westindies">West Indies</a></td>
+            <td><a href="" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_"></a></td>
+            <td><a href="http://blogs.espncricinfo.com/btw/" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_beyondthetestworld">Beyond the Test World</a></td>
+           </tr>
+           <tr>
+            <td><a href="/zimbabwe/content/current/team/9.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_zimbabwe">Zimbabwe</a></td>
+            <td><a href="" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_"></a></td>
+            <td><a href="" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=countries_"></a></td>
+           </tr>
+           <tr>
+            <td colspan="5" height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+  <td class="navLinksSep"></td>
+     <td class="navLinks" onmouseover="mopen('m2')" onmouseout="mclosetime()">
+      <a href="/ci/engine/current/match/scores/live.html" class="NavLink">Live Scores</a>
+      <div id="m2">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/ci/engine/current/match/scores/live.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=livescores">Live Scores</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="135" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td height="10"></td>
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/current/match/scores/live.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=livescores_livescoreshome">Live Scores Home</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="javascript:openS('/ci/engine/current/match/scores/desktop.html','dsktpScrBrd')" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=livescores_desktopscoreboard">Desktop Scoreboard</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/site/product/widgets/scores_sizes.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=livescores_scoreswidget">Scores Widget</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/mobile/content/current/site/mobile/mobicast.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=livescores_mobilescores">Mobile Scores</a></td>
+	    
+           </tr>
+           <tr>
+            <td height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+     <td class="navLinks" onmouseover="mopen('m3')" onmouseout="mclosetime()">
+      <a href="/ci/content/current/match/fixtures/index.html" class="NavLink">Fixtures</a>
+      <div id="m3">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/ci/content/current/match/fixtures/index.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=fixtures">Fixtures</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="170" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td height="10"></td>
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/match/fixtures/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=fixtures_fixtureshome">Fixtures Home</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/match/fixtures/live.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=fixtures_livecoverage">Live Coverage</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/match/fixtures_futures.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=fixtures_currentandfuturetours">Current and Future Tours</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/match/fixtures/calendar.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=fixtures_internationalcalendar">International Calendar</a></td>
+	    
+           </tr>
+           <tr>
+            <td height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+     <td class="navLinks" onmouseover="mopen('m4')" onmouseout="mclosetime()">
+      <a href="/ci/engine/current/match/scores/recent.html" class="NavLink">Results</a>
+      <div id="m4">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/ci/engine/current/match/scores/recent.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=results">Results</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="160" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td height="10"></td>
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/current/match/scores/recent.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=results_recentresults">Recent Results</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/current/series/index.html?season=2014" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=results_2014season">2014 Season</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/current/series/index.html?season=2013/14" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=results_2013/14season">2013/14 Season</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/current/series/index.html?season=2013" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=results_2013season">2013 Season</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/current/series/index.html?season=2012/13" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=results_2012/13season">2012/13 Season</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/current/series/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=results_matchandseriesarchive">Match and Series Archive</a></td>
+	    
+           </tr>
+           <tr>
+            <td height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+  <td class="navLinksSep"></td>
+     <td class="navLinks" onmouseover="mopen('m5')" onmouseout="mclosetime()">
+      <a href="/ci/content/current/story/news.html" class="NavLink">News</a>
+      <div id="m5">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/ci/content/current/story/news.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=news">News</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="95" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td height="10"></td>
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/story/news.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=news_newshome">News Home</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/infocus/content/current/story/infocus.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=news_infocus">In Focus</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/rss/feeds_rss_cricket.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=news_rssindex">RSS Index</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="http://blogs.espncricinfo.com/surfer/" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=news_thesurfer">The Surfer</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/site/product/widgets/news_sizes.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=news_newswidget">News Widget</a></td>
+	    
+           </tr>
+           <tr>
+            <td height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+     <td class="navLinks" onmouseover="mopen('m6')" onmouseout="mclosetime()">
+      <a href="/magazine/content/current/story/magazine/index.html" class="NavLink">Features</a>
+      <div id="m6">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/magazine/content/current/story/magazine/index.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=features">Features</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="130" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td height="10"></td>
+           </tr>
+           <tr>
+	    
+            <td><a href="/magazine/content/current/story/magazine/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_magazinehome">Magazine Home</a></td>
+	    
+           </tr>
+           <tr>
+            <td class="subMenu" onmouseover="subPopup1('m6_1')" onmouseout="subPopup0('m6_1')" style="padding:0 0 0 7px">
+     
+		<span class="PopupLinks" style="cursor:default;" >Regulars</span>
+
+             <div id="m6_1" class="subpopup">
+              <table cellspacing="0" cellpadding="0" border="0"  width="160">
+               <tr>
+                <td width="4" height="4" class="popLT"></td>
+                <td class="popTbg"></td>
+                <td width="4" height="4" class="popRT"></td>
+               </tr>
+               <tr>
+                <td width="4" height="4" class="popLB"></td>
+                <td class="popBbg">
+                 <table cellspacing="0" cellpadding="0" border="0" width="140">
+                  <tr>
+                   <td class="ciDpdnli" ><a href="/magazine/content/story/magazine/author.html?author=34;genre=6" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_asksteven">Ask Steven</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" ><a href="/magazine/content/story/magazine/otd.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_onthisday">On This Day</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" ><a href="/magazine/content/story/magazine/author.html?genre=193" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_espncricinfoxi">ESPNcricinfo XI</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" ><a href="/magazine/content/story/magazine/author.html?author=29;genre=12" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_numbersgame">Numbers Game</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" ><a href="/magazine/content/current/quote/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_quoteunquote">Quote Unquote</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" ><a href="/magazine/content/story/magazine/author.html?genre=14" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_rewindto">Rewind to</a></td>
+                  </tr>
+                 	<tr><td height="10"></td></tr>
+                 </table>
+                </td>
+                <td width="4" height="4" class="popRB"></td>
+               </tr>
+              </table>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <td class="subMenu" onmouseover="subPopup1('m6_2')" onmouseout="subPopup0('m6_2')"  style="padding:0 0 0 7px">
+     
+		<span class="PopupLinks" style="cursor:default;">Highlights</span>
+
+
+             <div id="m6_2" class="subpopup">
+              <table cellspacing="0" cellpadding="0" border="0" width="310">
+               <tr>
+                <td width="4" height="4" class="popLT"></td>
+                <td class="popTbg"></td>
+                <td width="4" height="4" class="popRT"></td>
+               </tr>
+               <tr>
+                <td width="4" height="4" class="popLB"></td>
+                <td class="popBbg">
+                 <table cellspacing="0" cellpadding="0" border="0" width="290">
+                  <tr>
+                   <td class="ciDpdnli" width="140"><a href="/magazine/content/story/magazine/author.html?genre=268" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_diaries">Diaries</a></td>
+                   <td class="subPopRt" rowspan="6">&nbsp;&nbsp;</td>
+                   <td class="ciDpdnli" width="140"><a href="/magazine/content/story/magazine/author.html?genre=184" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_myfavouritecricketer">My Favourite Cricketer</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?genre=169" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_features">Features</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?genre=176" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_profiles">Profiles</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?genre=174" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_gleanings">Gleanings</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?genre=173" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_talkingcricket">Talking Cricket</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?genre=188" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_iwasthere">I Was There</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?genre=234" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_tributes">Tributes</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?genre=175" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_interviews">Interviews</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?genre=340" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_quicksingles">Quick Singles</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?genre=168" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_thelongroom">The Long Room</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/quiz.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_quiz">Quiz</a></td>
+                  </tr>
+                 	<tr><td colspan="3" height="10"></td></tr>
+                 </table>
+                </td>
+                <td width="4" height="4" class="popRB"></td>
+               </tr>
+              </table>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <td class="subMenu" onmouseover="subPopup1('m6_3')" onmouseout="subPopup0('m6_3')"  style="padding:0 0 0 7px">
+     
+		<span class="PopupLinks" style="cursor:default;">Opinion</span>
+
+
+             <div id="m6_3" class="subpopup">
+              <table cellspacing="0" cellpadding="0" border="0" width="300">
+               <tr>
+                <td width="4" height="4" class="popLT"></td>
+                <td class="popTbg"></td>
+                <td width="4" height="4" class="popRT"></td>
+               </tr>
+               <tr>
+                <td width="4" height="4" class="popLB"></td>
+                <td class="popBbg">
+                 <table cellspacing="0" cellpadding="0" border="0" width="280">
+                  <tr>
+                   <td class="ciDpdnli" width="130"><a href="/magazine/content/story/magazine/author.html?author=31;genre=119" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_sambitbal">Sambit Bal</a></td>
+                   <td class="subPopRt" rowspan="10">&nbsp;&nbsp;</td>
+                   <td class="ciDpdnli" width="140"><a href="/magazine/content/story/magazine/author.html?author=238;genre=167" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_sanjaymanjrekar">Sanjay Manjrekar</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=367;genre=395" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_danielbrettig">Daniel Brettig</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=272;genre=389" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_sidharthmonga">Sidharth Monga</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=261;genre=244" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_ianchappell">Ian Chappell</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=384;genre=406" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_marknicholas">Mark Nicholas</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=200;genre=263" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_tonycozier">Tony Cozier</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=95;genre=272" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_christianryan">Christian Ryan</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=373;genre=396" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_edcowan">Ed Cowan</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=293;genre=399" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_saadshafqat">Saad Shafqat</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=268;genre=393" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_brydoncoverdale">Brydon Coverdale</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=380;genre=400" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_edsmith">Ed Smith</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=390;genre=418" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_martincrowe">Martin Crowe</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=291;genre=275" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_robsteen">Rob Steen</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=391;genre=419" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_rahuldravid">Rahul Dravid</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?genre=375;author=355" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_shardaugra">Sharda Ugra</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=383;genre=404" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_davidhopps">David Hopps</a></td>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?genre=256" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_guestcolumn">Guest Column</a></td>
+                  </tr>
+                  <tr>
+                   <td class="ciDpdnli" width="120"><a href="/magazine/content/story/magazine/author.html?author=375;genre=405" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_ashleymallett">Ashley Mallett</a></td>
+                   <td class="ciDpdnli" width="120"><a href="" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_"></a></td>
+                  </tr>
+                 	<tr><td colspan="3" height="10"></td></tr>
+                 </table>
+                </td>
+                <td width="4" height="4" class="popRB"></td>
+               </tr>
+              </table>
+             </div>
+            </td>
+           </tr>
+           <tr>
+	    
+            <td><a href="/magazine/content/story/magazine/author.html?genre=21" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_reviews">Reviews</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/thestands/content/site/thestands" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=features_thestands">The Stands</a></td>
+	    
+           </tr>
+           <tr>
+            <td height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+     <td class="navLinks" onmouseover="mopen('m7')" onmouseout="mclosetime()">
+      <a href="/ci/content/current/image/index.html" class="NavLink">Photos</a>
+      <div id="m7">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/ci/content/current/image/index.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=photos">Photos</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="100" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td height="10"></td>
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/image/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=photos_photoshome">Photos Home</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/gallery/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=photos_galleries">Galleries</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/image/wallpapers.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=photos_wallpapers">Wallpapers</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/download/screensaver.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=photos_screensavers">Screensavers</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/site/product/widgets/photos_sizes.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=photos_photoswidget">Photos Widget</a></td>
+	    
+           </tr>
+           <tr>
+            <td height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+     <td class="navLinks" onmouseover="mopen('m8')" onmouseout="mclosetime()">
+      <a href="/ci/content/video_audio/index.html" class="NavLink">Video & Audio</a>
+      <div id="m8">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/ci/content/video_audio/index.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=videoaudio">Video & Audio</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="305" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td colspan="3" height="10"></td>
+           </tr>
+           <tr>
+            <td width="155"><a href="/ci/content/video_audio/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_videoaudiohome">Video & Audio Home</a></td>
+            <td rowspan="8" width="10" class="Dotts"></td>
+            <td width="140"><a href="/ci/content/video_audio/index.html?genre=1" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_matchanalysis">Match Analysis</a></td>
+           </tr>
+           <tr>
+            <td><a href="/ci/content/video_audio/index.html?genre=56" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_alison'steabreak">Alison's Tea Break</a></td>
+            <td><a href="/ci/content/video_audio/index.html?genre=53" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_myxi">My XI</a></td>
+           </tr>
+           <tr>
+            <td><a href="/ci/content/video_audio/index.html?genre=21" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_bowlatboycs">Bowl at Boycs</a></td>
+            <td><a href="/ci/content/video_audio/index.html?genre=34" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_newsandanalysis">News and Analysis</a></td>
+           </tr>
+           <tr>
+            <td><a href="/ci/content/video_audio/index.html?genre=48" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_thechatter">The Chatter</a></td>
+            <td><a href="/legends-of-cricket/content/site/451900.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_legendsofcricket">Legends of Cricket</a></td>
+           </tr>
+           <tr>
+            <td><a href="/ci/content/video_audio/index.html?genre=10" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_comments">Comments</a></td>
+            <td><a href="/ci/content/video_audio/index.html?genre=2" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_pressconference">Press Conference</a></td>
+           </tr>
+           <tr>
+            <td><a href="/ci/content/video_audio/index.html?genre=46" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_features">Features</a></td>
+            <td><a href="/ci/content/video_audio/index.html?genre=27" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_switchhit">Switch Hit</a></td>
+           </tr>
+           <tr>
+            <td><a href="/ci/content/video_audio/index.html?genre=58" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_gofigure">Go Figure</a></td>
+            <td><a href="http://www.youtube.com/ESPNCricinfo" class="PopupLinks" target="_blank" name="&lpos=cricinfo_mainnav&lid=videoaudio_youtube">YouTube</a></td>
+           </tr>
+           <tr>
+            <td><a href="/ci/content/video_audio/index.html?genre=9" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=videoaudio_interviews">Interviews</a></td>
+            <td><a href="http://itunes.apple.com/WebObjects/DZR.woa/wa/viewTagged?id=419587186&tag=ESPNcricinfo" class="PopupLinks" target="_blank" name="&lpos=cricinfo_mainnav&lid=videoaudio_itunes">iTunes</a></td>
+           </tr>
+           <tr>
+            <td colspan="5" height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+     <td class="navLinks" onmouseover="mopen('m9')" onmouseout="mclosetime()">
+      <a href="/blogs/content/story/blogs/cordon.html" class="NavLink">Blogs</a>
+      <div id="m9">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/blogs/content/story/blogs/cordon.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=blogs">Blogs</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="300" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td colspan="3" height="10"></td>
+           </tr>
+           <tr>
+            <td width="155"><a href="/blogs/content/story/blogs/cordon.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=blogs_thecordon">The Cordon</a></td>
+            <td rowspan="5" width="10" class="Dotts"></td>
+            <td width="135"><a href="/blogs/content/story/blogs/county.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=blogs_onemanandhisdog">One Man and His Dog</a></td>
+           </tr>
+           <tr>
+            <td><a href="/blogs/content/story/blogs?genre=454" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=blogs_thebuzz">The Buzz</a></td>
+            <td><a href="/blogs/content/story/blogs/page2.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=blogs_page2">Page 2</a></td>
+           </tr>
+           <tr>
+            <td><a href="/blogs/content/story/blogs?genre=457" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=blogs_theconfectionerystall">The Confectionery Stall</a></td>
+            <td><a href="/blogs/content/story/blogs?genre=463" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=blogs_shotselection">Shot Selection</a></td>
+           </tr>
+           <tr>
+            <td><a href="/blogs/content/story/blogs?genre=465" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=blogs_theiplwatcher">The IPL Watcher</a></td>
+            <td><a href="/blogs/content/story/blogs?genre=422" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=blogs_thesurfer">The Surfer</a></td>
+           </tr>
+           <tr>
+            <td><a href="/thestands/content/site/thestands/genre.html?genre=451" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=blogs_inbox">Inbox</a></td>
+            <td><a href="/blogs/content/story/blogs?genre=427" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=blogs_tourdiaries">Tour Diaries</a></td>
+           </tr>
+           <tr>
+            <td colspan="5" height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+     <td class="navLinks" onmouseover="mopen('m10')" onmouseout="mclosetime()">
+      <a href="/ci/content/current/stats/index.html" class="NavLink">Statistics</a>
+      <div id="m10">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/ci/content/current/stats/index.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=statistics">Statistics</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="130" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td height="10"></td>
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/stats/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=statistics_statisticshome">Statistics Home</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/current/stats/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=statistics_statsguru">Statsguru</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/current/records/index.html?id=2014;type=year" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=statistics_2014records">2014 Records</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/current/records/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=statistics_allrecords">All Records</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/player/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=statistics_players">Players</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/ground/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=statistics_grounds">Grounds</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/magazine/content/story/magazine/author.html?author=34;genre=6" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=statistics_asksteven">Ask Steven</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/magazine/content/current/story/magazine/author.html?author=29;genre=12" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=statistics_numbersgame">Numbers Game</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="http://blogs.espncricinfo.com/itfigures/" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=statistics_itfigures">It Figures</a></td>
+	    
+           </tr>
+           <tr>
+            <td height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+     <td class="navLinks" onmouseover="mopen('m11')" onmouseout="mclosetime()">
+      <a href="/ci/engine/series/index.html" class="NavLink">Archive</a>
+      <div id="m11">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDd">
+          <table cellpadding="0" cellspacing="0" border="0" align="left">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+           <td class="PopupTabs">
+
+	<a href="/ci/engine/series/index.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=archive">Archive</a>
+
+</td>
+
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdLftTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="165" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td height="10"></td>
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/series/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=archive_matchandseriesarchive">Match and Series Archive</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/player/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=archive_players">Players</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/content/current/ground/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=archive_grounds">Grounds</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/ci/engine/current/records/index.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=archive_records">Records</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/rankings/content/current/page/211271.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=archive_rankings/ratings">Rankings / Ratings</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/wisdenalmanack/content/current/story/almanack" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=archive_wisdenalmanack">Wisden Almanack</a></td>
+	    
+           </tr>
+           <tr>
+            <td height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+     <td class="navLinks"><a href="http://games.espncricinfo.com/fantasy/homepage.aspx" class="NavLink">Fantasy</a></td>
+     <td class="navMobileTab" onmouseover="mopen('m13');" onmouseout="mclosetime();" align="center">
+     <a href="/mobile/content/current/site/mobile/android.html" class="NavLink" style="color:#FFFFFF;">Mobile</a>
+      <div id="m13" class="mobileDd" style="left:-38px;">
+       <table border="0" align="left" cellpadding="0" cellspacing="0">
+        <tr>
+         <td colspan="2" id="mgDdLft">
+          <table cellpadding="0" cellspacing="0" border="0" align="right">
+           <tr>
+            <td width="4" height="27" class="ddTabLeft"></td>
+            <td class="PopupTabs">&nbsp;<a href="/mobile/content/current/site/mobile/android.html" class="popNavLink" name="&lpos=cricinfo_mainnav&lid=mobile">Mobile</a>&nbsp;</td>
+            <td width="4" height="27" class="ddTabRight"></td>
+           </tr>
+           <tr>
+            <td height="5" colspan="3" class="mgDdRghtTop"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td width="5" id="mgPopup">&nbsp;</td>
+         <td>
+          <table width="100" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+           <tr>
+            <td height="10"></td>
+           </tr>
+           <tr>
+	    
+            <td><a href="/mobile/content/current/site/mobile/android.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=mobile_android">Android</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/mobile/content/current/site/mobile/mobilehome.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=mobile_iphone">iPhone</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/mobile/content/current/site/mobile/mobicast.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=mobile_wp7wp8">WP7 & WP8</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/mobile/content/site/mobile/kindle.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=mobile_kindlefireapp">Kindle Fire App</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/mobile/content/current/site/mobile/ipad.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=mobile_ipadapp">iPad App</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/mobile/content/current/site/mobile/windows8.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=mobile_windows8">Windows 8</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/mobile/content/site/mobile/wap.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=mobile_mobilesite">Mobile Site</a></td>
+	    
+           </tr>
+           <tr>
+	    
+            <td><a href="/mobile/content/site/mobile/espn_hub.html" class="PopupLinks" name="&lpos=cricinfo_mainnav&lid=mobile_espnhub">ESPN Hub</a></td>
+	    
+           </tr>
+           <tr>
+            <td height="10"></td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </td>
+     </tr></table>
+</div>
+</div>
+ <div id="ciHomeContent">
+
+
+<div class="pnlHdr980Tp" style="_margin-bottom:-9px;_margin-top:5px;"></div>
+
+<div id="ciGblSubnav" style="background:none;margin-top:0px;margin-bottom:0px;width:978px;border-left:1px solid #cdcdcd;border-right:1px solid #cdcdcd;height:auto;">
+ <div class="ciGblSubnavbody" style="width:978px;background:#FFF url(http://i.imgci.com/espncricinfo/img_grypnlCtrbg.gif) repeat-x;height:auto;">
+
+<h1 class="SubnavSitesection" style="margin-top:4px;line-height:95%;min-width:22%;width:auto;float:left;">
+
+Indian Premier League, 2013  <span class="SubnavSitesectionSep">/</span>
+  <span class="SubnavSubsection">Player v player</span>
+ </h1>
+
+
+<span style="float:right;width:90px; position:relative; z-index:9999;">
+
+
+
+
+</span>
+
+
+
+  <div class="divSubnavSeparator" style="clear:both; "></div>
+
+  <div id="ciSubnav">
+   <ul>
+			    <li class="pad"><a href="/indian-premier-league-2013/content/series/586733.html" >Indian Premier League home</a></li>
+		    <li class="pad">|</li>
+			    <li class="pad"><a href="/indian-premier-league-2013/content/story/news.html?object=586733" >News</a></li>
+		    <li class="pad">|</li>
+			    <li class="pad"><a href="/indian-premier-league-2013/content/story/features.html?object=586733" >Features</a></li>
+		    <li class="pad">|</li>
+			    <li class="pad"><a href="/indian-premier-league-2013/content/image/index.html?class=series;object=586733" >Photos</a></li>
+		    <li class="pad">|</li>
+			    <li class="pad"><a href="/indian-premier-league-2013/content/series/586733.html?template=iplfixtures" >Fixtures</a></li>
+		    <li class="pad">|</li>
+			    <li class="pad"><a href="/indian-premier-league-2013/engine/series/586733.html" >Results</a></li>
+		    <li class="pad">|</li>
+			    <li class="pad"><a href="/indian-premier-league-2013/content/series/586733.html?template=ground" >Grounds</a></li>
+		    <li class="pad">|</li>
+			    <li class="pad"><a href="/indian-premier-league-2013/engine/series/586733.html?view=pointstable" >Points Table</a></li>
+		    <li class="pad">|</li>
+			    <li class="pad"><a href="/indian-premier-league-2013/engine/series/586733.html?view=records" >Stats</a></li>
+		    <li class="pad">|</li>
+    <li class="pad" onmouseover="mopen('mag9')" onmouseout="mclosetime()" style="z-index:999;"><a href="/indian-premier-league-2013/content/squad/index.html?object=586733">Squads <img src="http://i.imgci.com/espncricinfo/ciHOF_otherscountries_dropdownicon.gif" width="7" height="3" border="0" align="absmiddle" /></a>
+     <div id="mag9">
+      <table border="0" align="left" cellpadding="0" cellspacing="0">
+       <tr>
+        <td colspan="3" id="mgDd">
+
+         <table cellpadding="0" cellspacing="0" border="0" align="left">
+          <tr>
+           <td><img src="http://i.imgci.com/espncricinfo/IMG_ddTabLft.gif" width="4" height="30" alt="" /></td>
+           <td style="background:#FFF url('http://i.imgci.com/espncricinfo/IMG_dropdown_tab-bg.gif') repeat-x;" class="subPopupTab">
+            <a href="/indian-premier-league-2013/content/squad/index.html?object=586733" class="popNavLink">Squads <img src="http://i.imgci.com/espncricinfo/menuBlckArow.gif" width="7" height="3" border="0" align="absmiddle" /></a>
+           </td>
+           <td><img src="http://i.imgci.com/espncricinfo/IMG_ddTabRgt.gif" width="4" height="30" alt="" /></td>
+          </tr>
+          <tr>
+           <td height="5" colspan="3" bgcolor="#FFFFFF"><img src="http://i.imgci.com/espncricinfo/IMG_dropdown_top-left.gif" width="4" height="5" alt="" /></td>
+          </tr>
+         </table>
+
+        </td>
+       </tr>
+       <tr>
+        <td width="5" id="mgPopup">&nbsp;</td>
+        <td colspan="2">
+         <table width="170" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+
+          <tr>
+           <td><a href="/indian-premier-league-2013/content/squad/623917.html" class="PopupLinks">Chennai Super Kings</a></td>
+          </tr>
+          <tr>
+           <td><a href="/indian-premier-league-2013/content/squad/623915.html" class="PopupLinks">Delhi Daredevils</a></td>
+          </tr>
+          <tr>
+           <td><a href="/indian-premier-league-2013/content/squad/624073.html" class="PopupLinks">Kings XI Punjab</a></td>
+          </tr>
+          <tr>
+           <td><a href="/indian-premier-league-2013/content/squad/623922.html" class="PopupLinks">Kolkata Knight Riders</a></td>
+          </tr>
+          <tr>
+           <td><a href="/indian-premier-league-2013/content/squad/624074.html" class="PopupLinks">Mumbai Indians</a></td>
+          </tr>
+          <tr>
+           <td><a href="/indian-premier-league-2013/content/squad/624076.html" class="PopupLinks">Pune Warriors</a></td>
+          </tr>
+          <tr>
+           <td><a href="/indian-premier-league-2013/content/squad/624080.html" class="PopupLinks">Rajasthan Royals</a></td>
+          </tr>
+          <tr>
+           <td><a href="/indian-premier-league-2013/content/squad/624083.html" class="PopupLinks">Royal Challengers Bangalore</a></td>
+          </tr>
+          <tr>
+           <td><a href="/indian-premier-league-2013/content/squad/624084.html" class="PopupLinks">Sunrisers Hyderabad</a></td>
+          </tr>
+          <tr>
+           <td height="10"></td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+     </div>
+    </li>
+		    <li class="pad">|</li>
+    <li class="pad" onmouseover="mopen('mag10')" onmouseout="mclosetime()" style="z-index:999;"><a href="#">Teams <img src="http://i.imgci.com/espncricinfo/ciHOF_otherscountries_dropdownicon.gif" width="7" height="3" border="0" align="absmiddle" /></a>
+     <div id="mag10">
+      <table border="0" align="left" cellpadding="0" cellspacing="0">
+       <tr>
+        <td colspan="3" id="mgDd">
+
+         <table cellpadding="0" cellspacing="0" border="0" align="left">
+          <tr>
+           <td><img src="http://i.imgci.com/espncricinfo/IMG_ddTabLft.gif" width="4" height="30" alt="" /></td>
+           <td style="background:#FFF url('http://i.imgci.com/espncricinfo/IMG_dropdown_tab-bg.gif') repeat-x;" class="subPopupTab">
+            <span class="seriesSmary" style="cursor:default;">Teams <img src="http://i.imgci.com/espncricinfo/menuBlckArow.gif" width="7" height="3" border="0" align="absmiddle" /></span>
+           </td>
+           <td><img src="http://i.imgci.com/espncricinfo/IMG_ddTabRgt.gif" width="4" height="30" alt="" /></td>
+          </tr>
+          <tr>
+           <td height="5" colspan="3" bgcolor="#FFFFFF"><img src="http://i.imgci.com/espncricinfo/IMG_dropdown_top-left.gif" width="4" height="5" alt="" /></td>
+          </tr>
+         </table>
+
+        </td>
+       </tr>
+       <tr>
+        <td width="5" id="mgPopup">&nbsp;</td>
+        <td colspan="2">
+         <table width="190" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+
+          <tr>
+           <td><a href="/ipl-chennai/content/team/335974.html" class="PopupLinks">Chennai Super Kings</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl-delhi/content/team/335975.html" class="PopupLinks">Delhi Daredevils</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl-mohali/content/team/335973.html" class="PopupLinks">Kings XI Punjab</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl-kolkata/content/team/335971.html" class="PopupLinks">Kolkata Knight Riders</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl-mumbai/content/team/335978.html" class="PopupLinks">Mumbai Indians</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl-pune/content/team/474666.html" class="PopupLinks">Pune Warriors</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl-jaipur/content/team/335977.html" class="PopupLinks">Rajasthan Royals</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl-blore/content/team/335970.html" class="PopupLinks">Royal Challengers Bangalore</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl-sunrisers/content/team/628333.html" class="PopupLinks">Sunrisers Hyderabad</a></td>
+          </tr>
+          <tr>
+           <td height="10"></td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+     </div>
+    </li>
+		    <li class="pad">|</li>
+    <li class="pad" onmouseover="mopen('mag11')" onmouseout="mclosetime()" style="z-index:999;"><a href="/indian-premier-league-2013/engine/records/index.html?id=117;type=trophy">IPL Records <img src="http://i.imgci.com/espncricinfo/ciHOF_otherscountries_dropdownicon.gif" width="7" height="3" border="0" align="absmiddle" /></a>
+     <div id="mag11">
+      <table border="0" align="left" cellpadding="0" cellspacing="0">
+       <tr>
+        <td colspan="3" id="mgDd">
+
+         <table cellpadding="0" cellspacing="0" border="0" align="left">
+          <tr>
+           <td><img src="http://i.imgci.com/espncricinfo/IMG_ddTabLft.gif" width="4" height="30" alt="" /></td>
+           <td style="background:#FFF url('http://i.imgci.com/espncricinfo/IMG_dropdown_tab-bg.gif') repeat-x;" class="subPopupTab">
+            <a href="/indian-premier-league-2013/engine/records/index.html?id=117;type=trophy" class="popNavLink">IPL Records <img src="http://i.imgci.com/espncricinfo/menuBlckArow.gif" width="7" height="3" border="0" align="absmiddle" /></a>
+           </td>
+           <td><img src="http://i.imgci.com/espncricinfo/IMG_ddTabRgt.gif" width="4" height="30" alt="" /></td>
+          </tr>
+          <tr>
+           <td height="5" colspan="3" bgcolor="#FFFFFF"><img src="http://i.imgci.com/espncricinfo/IMG_dropdown_top-left.gif" width="4" height="5" alt="" /></td>
+          </tr>
+         </table>
+
+        </td>
+       </tr>
+       <tr>
+        <td width="5" id="mgPopup">&nbsp;</td>
+        <td colspan="2">
+         <table width="125" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+
+          <tr>
+           <td><a href="/indian-premier-league-2013/engine/records/index.html?id=117;type=trophy" class="PopupLinks">Overall IPL Records</a></td>
+          </tr>
+          <tr>
+           <td><a href="/indian-premier-league-2012/engine/series/520932.html?view=records" class="PopupLinks">2012</a></td>
+          </tr>
+          <tr>
+           <td><a href="/indian-premier-league-2011/engine/series/466304.html?view=records" class="PopupLinks">2011</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl2010/engine/series/418064.html?view=records" class="PopupLinks">2010</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl2009/engine/series/374163.html?view=records" class="PopupLinks">2009</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl/engine/series/313494.html?view=records" class="PopupLinks">2008</a></td>
+          </tr>
+          <tr>
+           <td height="10"></td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+     </div>
+    </li>
+		    <li class="pad">|</li>
+    <li class="pad" onmouseover="mopen('mag12')" onmouseout="mclosetime()" style="z-index:999;"><a href="/indian-premier-league-2013/content/series/586733.html">Season <img src="http://i.imgci.com/espncricinfo/ciHOF_otherscountries_dropdownicon.gif" width="7" height="3" border="0" align="absmiddle" /></a>
+     <div id="mag12">
+      <table border="0" align="left" cellpadding="0" cellspacing="0">
+       <tr>
+        <td colspan="3" id="mgDd">
+
+         <table cellpadding="0" cellspacing="0" border="0" align="left">
+          <tr>
+           <td><img src="http://i.imgci.com/espncricinfo/IMG_ddTabLft.gif" width="4" height="30" alt="" /></td>
+           <td style="background:#FFF url('http://i.imgci.com/espncricinfo/IMG_dropdown_tab-bg.gif') repeat-x;" class="subPopupTab">
+            <a href="/indian-premier-league-2013/content/series/586733.html" class="popNavLink">Season <img src="http://i.imgci.com/espncricinfo/menuBlckArow.gif" width="7" height="3" border="0" align="absmiddle" /></a>
+           </td>
+           <td><img src="http://i.imgci.com/espncricinfo/IMG_ddTabRgt.gif" width="4" height="30" alt="" /></td>
+          </tr>
+          <tr>
+           <td height="5" colspan="3" bgcolor="#FFFFFF"><img src="http://i.imgci.com/espncricinfo/IMG_dropdown_top-left.gif" width="4" height="5" alt="" /></td>
+          </tr>
+         </table>
+
+        </td>
+       </tr>
+       <tr>
+        <td width="5" id="mgPopup">&nbsp;</td>
+        <td colspan="2">
+         <table width="100" border="0" cellspacing="0" cellpadding="0" id="mgDdRht">
+
+          <tr>
+           <td><a href="/indian-premier-league-2012/content/series/520932.html" class="PopupLinks">2012</a></td>
+          </tr>
+          <tr>
+           <td><a href="/indian-premier-league-2011/content/series/466304.html" class="PopupLinks">2011</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl2010/content/series/418064.html" class="PopupLinks">2010</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl2009/content/series/374163.html" class="PopupLinks">2009</a></td>
+          </tr>
+          <tr>
+           <td><a href="/ipl/content/series/313494.html" class="PopupLinks">2008</a></td>
+          </tr>
+          <tr>
+           <td height="10"></td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+     </div>
+    </li>
+		    <li class="pad">|</li>
+			    <li class="pad"><a href="http://games.espncricinfo.com/fantasy/homepage.aspx" >Fantasy</a></li>
+
+
+
+
+
+   </ul>
+  </div>
+ </div>
+</div>
+<div class="pnlHdr980Btm" style="_overflow:hidden; _height:15px;"></div>  <div id="ciHomeContentlhs">
+
+
+
+
+<div class="seriesSpncr" style="height:auto;" >
+
+
+<script language="JavaScript" type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/N6444/adj/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=650x40;kvpos=;ord=' + ord + '?" type="text/javascript"><\/script>');
+ad_counter++;
+</script>
+<noscript><a href="http://ad.doubleclick.net/N6444/jump/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=650x40;kvpos=;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/N6444/ad/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=650x40;kvpos=;ord=123456789?" border="0" alt=""></a></noscript>
+
+
+</div>
+
+   <!-- START 650 AREA --><div class="pnl650T"></div>
+<div class="pnl650M">
+ <div class="archiveCardContainer">   
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html" class="cardMenu">Scorecard</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?innings=1;view=commentary" class="cardMenu">Commentary</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=wickets" class="cardMenu">Wickets</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?innings=1;view=fow" class="cardMenu">Partnership table</a> |</span>
+<span class="cardMenu"><b>Player v player table</b> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=comparison" class="cardMenu">Over comparison</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=averages" class="cardMenu">Career averages</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/content/story/627892.html" class="cardMenu">Report</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/content/story/index.html?object=597998" class="cardMenu">Article index (5)</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/content/image/index.html?object=597998" class="cardMenu">Photo index (15)</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=wagonwheel" class="cardMenu">Wagon wheel</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=manhattan" class="cardMenu">Manhattan</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=wormchart" class="cardMenu">Worm</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=runrate" class="cardMenu">Run rate graph</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=runsballs" class="cardMenu">Player v player graph</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=partnership" class="cardMenu">Partnership graph</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=runstype" class="cardMenu">Scoring shots graph</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=wicketspie" class="cardMenu">Wickets pie</a> |</span>
+<span class="cardMenu"><a href="/indian-premier-league-2013/engine/match/597998.html?view=extraspie" class="cardMenu">Extras pie</a></span>
+ </div>
+</div>
+<div class="pnl650B"></div>
+<div class="pnl650T"></div>
+<div class="pnl650M">
+ <div class="archiveCardContainer" >   
+<div style="width:630px; display:block;">
+ <div class="headLeftDiv">
+ 
+ <span style="float:right; margin-left:2px;"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="espncricinfo" data-url="http://www.espncricinfo.com/indian-premier-league-2013/engine/match/597998.html" data-text="Scorecard for Kolkata Knight Riders v Delhi Daredevils">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span>
+ <fb:like style="float:right; padding-top:0px; height:20px;" width="80" height="20" show_faces="false" href="http://www.facebook.com/Cricinfo" layout="button_count" class="fb_like"></fb:like>
+ 
+  <p class="seriesText"><a href="/indian-premier-league-2013/engine/series/586733.html" target="" title="view the match results for Indian Premier League in 2013" class="headLink">Indian Premier League</a> - 1st match</p>
+  <p class="teamText">
+<a href="/ipl-kolkata/content/team/335971.html" target="" title="view the team home page for Kolkata Knight Riders" class="teamLink">Kolkata Knight Riders</a> v <a href="/ipl-delhi/content/team/335975.html" target="" title="view the team home page for Delhi Daredevils" class="teamLink">Delhi Daredevils</a>  </p>
+  <p class="statusText">Kolkata Knight Riders won by 6 wickets (with 8 balls remaining)</p>
+ </div>
+
+ <div class="headRightDiv">
+  <ul>
+   <li><a href="/ci/engine/records/index.html?class=6" target="" title="view the overall records for Twenty20 matches" class="headLink">Twenty20 match</a>  |  <a href="/ci/engine/series/index.html?season=2013" target="" title="view the scorecard archive for season 2013" class="headLink">2013 season</a></li>
+   <li>
+    Played at 
+<a href="/indian-premier-league-2013/content/ground/57980.html" target="" title="view the ground profile for Eden Gardens, Kolkata" class="headLink">Eden Gardens, Kolkata</a>   </li>
+   <li>
+3 April 2013 - night match (20-over match)   </li>
+  </ul>
+ </div>
+</div>
+
+<!-- Sponcer slot -->
+<!-- Sponcer slot --><div id="statsContainer">
+ <div class="space10"></div>
+ <div class="divBlock">
+  <div class="divBlockLeft" style="margin-bottom:10px;">
+   <a href="javascript:expandme(1, 2); inHeight();" class="plainLink">1st innings</a>
+ |    <a href="javascript:expandme(2, 2); inHeight();" class="plainLink">2nd innings</a>
+  </div>
+  <div class="divBlockRight" style="margin-bottom:10px;">
+   <a href="javascript:expandall(2); inHeight();" class="plainLink">Expand all</a> 
+   <img src="http://i.imgci.com/espncricinfo/expndAll.gif" width="11" height="11" border="0" alt="Expand all"> | 
+   <a href="javascript:collapseall(2); inHeight();" class="plainLink">Collapse all</a> 
+   <img src="http://i.imgci.com/espncricinfo/colapseAll.gif" width="11" height="11" border="0" alt="Collapse all">
+  </div>
+ </div>
+ <div class="statsOpn" id="1" onclick="javascript:$('#statPlyr1').slideToggle('slow'); swapTb1('1'); inHeight();">
+  <span class="statsInningsHead">Delhi Daredevils - 1st innings</span>
+ </div>
+ <div class="space10"></div>
+ <div id="statPlyr1">
+  <table class="engineTable">
+   <caption>UBT Chand - 1st innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>B Lee</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>bowled</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>DA Warner - 1st innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>B Lee</td>
+     <td>3</td>
+     <td>1</td>
+     <td>1</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>7</td>
+     <td>6</td>
+     <td>116.66</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>JH Kallis</td>
+     <td>6</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>3</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>13</td>
+     <td>10</td>
+     <td>130.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>L Balaji</td>
+     <td>1</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>1</td>
+     <td>2</td>
+     <td>50.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>SP Narine</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>caught</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>DPMD Jayawardene - 1st innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>B Lee</td>
+     <td>5</td>
+     <td>2</td>
+     <td>1</td>
+     <td>0</td>
+     <td>5</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>caught</td>
+     <td>30</td>
+     <td>14</td>
+     <td>214.28</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>JH Kallis</td>
+     <td>4</td>
+     <td>1</td>
+     <td>1</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>7</td>
+     <td>7</td>
+     <td>100.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>L Balaji</td>
+     <td>3</td>
+     <td>7</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>11</td>
+     <td>11</td>
+     <td>100.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>SP Narine</td>
+     <td>2</td>
+     <td>4</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>6</td>
+     <td>7</td>
+     <td>85.71</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>R Bhatia</td>
+     <td>4</td>
+     <td>7</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>11</td>
+     <td>12</td>
+     <td>91.66</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>LR Shukla</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>1</td>
+     <td>1</td>
+     <td>100.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>MC Juneja - 1st innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>L Balaji</td>
+     <td>4</td>
+     <td>2</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>caught</td>
+     <td>6</td>
+     <td>7</td>
+     <td>85.71</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>SP Narine</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>1</td>
+     <td>1</td>
+     <td>100.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>R Bhatia</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>1</td>
+     <td>1</td>
+     <td>100.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>NV Ojha - 1st innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>JH Kallis</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>1</td>
+     <td>1</td>
+     <td>100.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>R Bhatia</td>
+     <td>3</td>
+     <td>4</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>caught</td>
+     <td>8</td>
+     <td>8</td>
+     <td>100.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>J Botha - 1st innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>R Bhatia</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>lbw</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>LR Shukla</td>
+     <td>2</td>
+     <td>1</td>
+     <td>1</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>7</td>
+     <td>5</td>
+     <td>140.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>IK Pathan - 1st innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>L Balaji</td>
+     <td>2</td>
+     <td>2</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>2</td>
+     <td>4</td>
+     <td>50.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>SP Narine</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>caught</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>R Bhatia</td>
+     <td>0</td>
+     <td>2</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>2</td>
+     <td>2</td>
+     <td>100.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>AD Russell - 1st innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>B Lee</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>1</td>
+     <td>1</td>
+     <td>100.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>SP Narine</td>
+     <td>5</td>
+     <td>1</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>caught</td>
+     <td>3</td>
+     <td>7</td>
+     <td>42.85</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>S Nadeem - 1st innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>B Lee</td>
+     <td>1</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>1</td>
+     <td>2</td>
+     <td>50.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>SP Narine</td>
+     <td>4</td>
+     <td>1</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>3</td>
+     <td>6</td>
+     <td>50.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>A Nehra - 1st innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>SP Narine</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>caught</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0.00</td>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+ <div class="statsOpn" id="2" onclick="javascript:$('#statPlyr2').slideToggle('slow'); swapTb1('2'); inHeight();">
+  <span class="statsInningsHead">Kolkata Knight Riders - 2nd innings</span>
+ </div>
+ <div class="space10"></div>
+ <div id="statPlyr2">
+  <table class="engineTable">
+   <caption>MS Bisla - 2nd innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>IK Pathan</td>
+     <td>6</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>0</td>
+     <td>6</td>
+     <td>0.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>A Nehra</td>
+     <td>2</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>caught</td>
+     <td>4</td>
+     <td>3</td>
+     <td>133.33</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>G Gambhir - 2nd innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>IK Pathan</td>
+     <td>2</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td></td>
+     <td>11</td>
+     <td>5</td>
+     <td>220.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>A Nehra</td>
+     <td>0</td>
+     <td>3</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>3</td>
+     <td>3</td>
+     <td>100.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>UT Yadav</td>
+     <td>3</td>
+     <td>2</td>
+     <td>0</td>
+     <td>0</td>
+     <td>2</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>10</td>
+     <td>7</td>
+     <td>142.85</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>S Nadeem</td>
+     <td>1</td>
+     <td>4</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>8</td>
+     <td>6</td>
+     <td>133.33</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>J Botha</td>
+     <td>3</td>
+     <td>2</td>
+     <td>1</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>lbw</td>
+     <td>8</td>
+     <td>7</td>
+     <td>114.28</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>AD Russell</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>1</td>
+     <td>1</td>
+     <td>100.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>JH Kallis - 2nd innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>IK Pathan</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>4</td>
+     <td>1</td>
+     <td>400.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>A Nehra</td>
+     <td>8</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>3</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>13</td>
+     <td>12</td>
+     <td>108.33</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>UT Yadav</td>
+     <td>2</td>
+     <td>2</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>6</td>
+     <td>5</td>
+     <td>120.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>S Nadeem</td>
+     <td>2</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>caught</td>
+     <td>0</td>
+     <td>2</td>
+     <td>0.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>MK Tiwary - 2nd innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>S Nadeem</td>
+     <td>3</td>
+     <td>6</td>
+     <td>1</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>caught</td>
+     <td>12</td>
+     <td>11</td>
+     <td>109.09</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>J Botha</td>
+     <td>2</td>
+     <td>4</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>6</td>
+     <td>7</td>
+     <td>85.71</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>AD Russell</td>
+     <td>3</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>5</td>
+     <td>5</td>
+     <td>100.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>EJG Morgan - 2nd innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>UT Yadav</td>
+     <td>1</td>
+     <td>1</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>3</td>
+     <td>3</td>
+     <td>100.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>S Nadeem</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>1</td>
+     <td>1</td>
+     <td>100.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>J Botha</td>
+     <td>3</td>
+     <td>3</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>7</td>
+     <td>7</td>
+     <td>100.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>AD Russell</td>
+     <td>1</td>
+     <td>3</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>3</td>
+     <td>4</td>
+     <td>75.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="engineTable">
+   <caption>YK Pathan - 2nd innings</caption>
+   <thead>
+    <tr class="head">
+     <th class="left">v Bowler</th>
+     <th width=30>0s</th>
+     <th width=30>1s</th>
+     <th width=30>2s</th>
+     <th width=30>3s</th>
+     <th width=30>4s</th>
+     <th width=30>5s</th>
+     <th width=30>6s</th>
+     <th width=30>7+</th>
+     <th width=64>Dismissal</th>
+     <th width=44>Runs</th>
+     <th width=44>Balls</th>
+     <th width=44>SR</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr class="data1">
+     <td class="left" nowrap>UT Yadav</td>
+     <td>1</td>
+     <td>2</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>2</td>
+     <td>3</td>
+     <td>66.66</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>S Nadeem</td>
+     <td>3</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>1</td>
+     <td>4</td>
+     <td>25.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>J Botha</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td></td>
+     <td>1</td>
+     <td>1</td>
+     <td>100.00</td>
+    </tr>
+    <tr class="data1">
+     <td class="left" nowrap>AD Russell</td>
+     <td>1</td>
+     <td>4</td>
+     <td>2</td>
+     <td>0</td>
+     <td>0</td>
+     <td>0</td>
+     <td>1</td>
+     <td>0</td>
+     <td></td>
+     <td>14</td>
+     <td>8</td>
+     <td>175.00</td>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+</div>
+
+<script language="javascript" type="text/javascript">
+$('.tree1').iflip('http://i.imgci.com/espncricinfo/Img_player-plusicon_9x9.jpg','http://i.imgci.com/espncricinfo/Img_player-minusicon_9x9.gif')
+$('.tree2').iflip('http://i.imgci.com/espncricinfo/Img_player-plusicon_9x9.jpg','http://i.imgci.com/espncricinfo/Img_player-minusicon_9x9.gif')
+$('.tree3').iflip('http://i.imgci.com/espncricinfo/Img_player-plusicon_9x9.jpg','http://i.imgci.com/espncricinfo/Img_player-minusicon_9x9.gif')
+$('.tree4').iflip('http://i.imgci.com/espncricinfo/Img_player-plusicon_9x9.jpg','http://i.imgci.com/espncricinfo/Img_player-minusicon_9x9.gif')
+</script>
+ </div>
+</div>
+<div class="pnl650B"></div>
+<script language="javascript" type="text/javascript">
+
+	var omniPageName = "pvp - 1st match: Kolkata Knight Riders v Delhi Daredevils at Kolkata, Apr 3, 2013";
+
+	var omniSiteSection1 = "Indian Premier League";
+
+	var omniSiteSection2 = "archive scorecards";
+
+	var omniCt = "match";
+</script>
+   <!-- END 650 AREA -->
+  </div>
+
+
+
+
+
+<div id="ciHomeContentrhs">
+<style type="text/css">
+.imageWrapper{float:left;position:relative;}
+.watchespn_video, .leftAlignPlyBtn a, .leftAlignPlyBtn a:hover, .centerAlignPlyBtn a, .centerAlignPlyBtn a:hover, .mem_rsltVdos .playtxt, .mem_rsltVdos .audiotxt{background:url('http://i.imgci.com/espncricinfo/watchESPNPlay.png') no-repeat;}
+.watchespn_video{width:310px;height:26px;float:left;position:absolute;top:0;left:0;font-size:12px;color:#fff;background-color:#ff002d;background-position:0 0;}
+.watchespn_video p{margin:5px 10px 0 95px;}
+.leftAlignPlyBtn{ width:62px;height:61px;float:left;position:absolute;bottom:0;left:0;}
+.leftAlignPlyBtn a{width:62px;height:61px;float:left;background-position:0 -40px;}
+.leftAlignPlyBtn a:hover{background-position:0 -120px;}
+.centerAlignPlyBtn{width:70px;height:70px;float:left;position:absolute;top:10.5em;left:10em;}
+.centerAlignPlyBtn a{width:70px;height:70px;float:left;background-position:5px -37px;margin:2px 0 0 3px;}
+.centerAlignPlyBtn a:hover{background-position:5px -110px;margin:0;}
+.kit_video{width:310px;height:26px;float:left;top:0;left:0;font-size:10px;color:#fff;background-color:#000;}
+.kit_video p{margin:6px 10px 0 5px;float:left;font-weight:bold;}
+.kit_video span{width:57px;text-align:center;background-color:#ff002d;float:left;padding:6px 0;font-weight:bold;}
+.mem_vacont{float:left;width:310px;padding:0px;height:auto;margin-top:20px;}
+.mem_rsltVdos {display: table;float: left;position: relative;width: 145px;}
+.mem_blkRow {background-color: #000000;height: 20px;margin-top: -24px;opacity: 0.5;padding: 0 0 0 5px;position: absolute;width: 140px;}
+.mem_rsltVdos .vdosTitleSml{font-size:11px;font-weight:bold;line-height:15px;}
+.mem_rsltVdos .playtxt{width:23px;height:23px;float:left;background-position:-67px -40px;margin:-23.5px 0 0 0;padding:0;}
+.mem_rsltVdos .audiotxt{width:23px;height:23px;float:left;background-position:-67px -80px;margin:-23.5px 0 0 0;padding:0;position:absolute;display:table;}
+html>body .mem_rsltVdos .playtxt{*margin:67px 0 0 0;}
+html>body .mem_rsltVdos .audiotxt{*margin:67px 0 0 -149px;}
+@-moz-document url-prefix(){.mem_rsltVdos .playtxt, .mem_rsltVdos .audiotxt{margin:-26px 0 0 0;}
+</style>
+
+
+
+
+		<script type="text/javascript" src="http://www.kyte.tv/js/kyte.js"></script>
+		<script type="text/javascript">
+			var channel = "";
+			var kyteplayer = new Kyte.Player(channel, { "p":961, "width":310, "height":237, "wmode":"transparent"});
+			function doPlay(uri) {
+			  if(kyteplayer) {
+			  kyteplayer.setURI(unescape(uri));
+				}
+			}       
+		</script>
+
+
+
+
+<style>
+.lvScrAdvt{ width:300px; background:#e5e5e5; text-align:center; height:19px; margin-bottom:5px;}
+.lvScrAdvt .txtlnk{ display: inline-block; padding-top: 2px;}
+.lvScrAdvt .imglnk{ width: 61px; *float: right; *margin-top: -15px;}
+</style>
+	<div id="ciHomeLivescoresPanel">
+	 <div id="lvScrCnt">
+
+	<div style="padding-bottom:12px; padding-top:3px;" align="center">
+		<a href="http://pubads.g.doubleclick.net/gampad/clk?id=74641137&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="http://i.imgci.com/scorecard/india/STB_Mar10th_CI-HP_310x35.gif" width="310" height="35" border="0" alt="Your Singapore" title="Your Singapore" /></a>
+	</div>	
+	
+	
+
+
+		  <div id="resultsTab" style="height:22px;padding-top:3px;margin:0;background:transparent url(http://i.imgci.com/espncricinfo/wideTabs.gif) no-repeat scroll left top;">
+	   <span id="resultTabTxt" class="rsltTbTxt1" style="width:300px;">Tournament Results</span>
+	  </div>
+
+	  <div id="rstbCont1" style="display:block;">
+   <div>
+    <a href="/indian-premier-league-2013/engine/match/598073.html" class="lsMatch" ><b>Super Kings v Mum Indians at Kolkata    </b></a>
+    <span class="lsDate">- May 26, 2013</span><br>
+    <span class="lsRslt2">Mum Indians won by 23 runs    </span>
+   </div>
+   <div class="lsSeptr" style="margin:3px 0 3px 0;"></div>
+   <div>
+    <a href="/indian-premier-league-2013/engine/match/598072.html" class="lsMatch" ><b>Mum Indians v Royals at Kolkata    </b></a>
+    <span class="lsDate">- May 24, 2013</span><br>
+    <span class="lsRslt2">Mum Indians won by 4 wickets (with 1 ball remaining)    </span>
+   </div>
+   <div class="lsSeptr" style="margin:3px 0 3px 0;"></div>
+   <div>
+    <a href="/indian-premier-league-2013/engine/match/598071.html" class="lsMatch" ><b>Royals v Sunrisers at Delhi    </b></a>
+    <span class="lsDate">- May 22, 2013</span><br>
+    <span class="lsRslt2">Royals won by 4 wickets (with 4 balls remaining)    </span>
+   </div>
+   <div class="lsSeptr" style="margin:3px 0 3px 0;"></div>
+   <div>
+    <a href="/indian-premier-league-2013/engine/match/598070.html" class="lsMatch" ><b>Super Kings v Mum Indians at Delhi    </b></a>
+    <span class="lsDate">- May 21, 2013</span><br>
+    <span class="lsRslt2">Super Kings won by 48 runs    </span>
+   </div>
+   <div class="lsSeptr" style="margin:3px 0 3px 0;"></div>
+   <div>
+    <a href="/indian-premier-league-2013/engine/match/598069.html" class="lsMatch" ><b>Sunrisers v KKR at Hyderabad (Deccan)    </b></a>
+    <span class="lsDate">- May 19, 2013</span><br>
+    <span class="lsRslt2">Sunrisers won by 5 wickets (with 7 balls remaining)    </span>
+   </div>
+   <div class="lsSeptr" style="margin:3px 0 3px 0;"></div>
+   <div>
+    <a href="/indian-premier-league-2013/engine/match/598067.html" class="lsMatch" ><b>Warriors v Daredevils at Pune    </b></a>
+    <span class="lsDate">- May 19, 2013</span><br>
+    <span class="lsRslt2">Warriors won by 38 runs    </span>
+   </div>
+
+
+	   <div class="lsRulr"></div>
+
+	   
+		   <a href="/indian-premier-league-2013/engine/series/586733.html" class="ciSectionFooterlink">More results &raquo;</a>
+  </div>
+ </div>
+</div>
+ <div id="lvScrBottom"></div>
+<div id="matchCoverage" style="padding-bottom:5px;">
+ 
+ <h1 style="margin: 5px 0pt 7px; padding: 0px; " class="rhFrameHeading">Match Coverage </h1>
+ <!--div style="overflow:hidden;"><fb:like width="80" height="23" show_faces="false" href="http://www.cricinfo.com/indian-premier-league-2013/engine/match/597998.html" layout="button_count" class="fb_like"></fb:like></div-->
+
+ <div style="display: block; width:100%; float:left; border-bottom:1px solid #D6E5F8; margin-bottom:10px; padding-bottom:10px;">
+
+  <ul class="odiMachtbs">
+	
+	<li id="odiMatch-1" class=""><a href="javascript:void(0)">Preview</a></li>
+	
+	
+    <li id="odiMatch-2" style="margin-left:20px;" class="active"><a href="javascript:void(0)">Match Day</a></li>
+	
+  </ul>
+
+    <div class="odiMctb_contnr" style="padding-top:5px;">
+    <div id="odiMatch-1-content" style="display: none">
+   <a class="plainLink" href="/indian-premier-league-2013/content/story/627686.html" target="_top"><b>News</b> - 'Time to play fearless cricket' - Gambhir</a>
+   <div class="dottedSeparator"></div>
+   <a class="plainLink" href="/indian-premier-league-2013/content/story/627689.html" target="_top"><b>Preview</b> - Tournament opener hit by injuries</a>
+   <div class="dottedSeparator"></div>
+
+  						<img src="http://img.cricinfo.com/espncricinfo/ciTV-icon_12x11.gif" width="12" height="11" alt="Video" title="Video" style="margin-right:5px;">
+  					
+   <a class="plainLink" href="/indian-premier-league-2013/content/video_audio/627694.html" target="_top"><b>Press Conference</b> - Being defending champions only builds our confidence - Gambhir</a>
+   <div class="dottedSeparator"></div>
+
+  						<img src="http://img.cricinfo.com/espncricinfo/ciTV-icon_12x11.gif" width="12" height="11" alt="Video" title="Video" style="margin-right:5px;">
+  					
+   <a class="plainLink" href="/indian-premier-league-2013/content/video_audio/627695.html" target="_top"><b>Press Conference</b> - Young fast bowlers should depend more on their skill than the pitches - Sekar</a>
+  </div>
+      <div id="odiMatch-2-content" style="display:block;">
+   <a class="plainLink" href="/blogs/content/story/627818.html" target="_top"><b>IPL Diaries</b> - Season six, bring it on</a>
+   <div class="dottedSeparator"></div>
+   <a class="plainLink" href="/indian-premier-league-2013/content/story/627892.html" target="_top"><b>Report</b> - Narine spins Kolkata to win in opener</a>
+   <div class="dottedSeparator"></div>
+   <a class="plainLink" href="/indian-premier-league-2013/content/story/627941.html" target="_top"><b>Features</b> - A shattering start, and a belated maximum</a>
+   <div class="dottedSeparator"></div>
+
+  						<img src="http://img.cricinfo.com/espncricinfo/ciTV-icon_12x11.gif" width="12" height="11" alt="Video" title="Video" style="margin-right:5px;">
+  					
+<a class="plainLink" href="/indian-premier-league-2013/content/video_audio/627971.html" target="_top"><b>Press Conference</b> - Will tackle Narine better in future - Jayawardene</a>
+   <div class="dottedSeparator"></div>
+
+  						<img src="http://img.cricinfo.com/espncricinfo/ciTV-icon_12x11.gif" width="12" height="11" alt="Video" title="Video" style="margin-right:5px;">
+  					
+<a class="plainLink" href="/indian-premier-league-2013/content/video_audio/627972.html" target="_top"><b>Press Conference</b> - Eden crowd more loyal than Delhi - Gambhir</a>
+   <div class="dottedSeparator"></div>
+   <a class="plainLink" href="/indian-premier-league-2013/content/gallery/627958.html" target="_top"><b>Gallery</b> - Narine spins KKR to victory over Delhi</a>
+	  </div>
+
+  </div>
+  
+  
+ </div>
+<div style="float:left; margin:0px;">
+ <table cellpadding="0" cellspacing="0" border="0" width="100%" class="rhTableLink">
+  <tr>
+   <td>
+    <ul>
+     <li class="left">
+      <ul>
+       <li>
+        <img src="http://i.imgci.com/espncricinfo/ciFantasy_arrow.gif" alt="" title="" border="0" height="9" width="6"/>
+        <a class="plainLink" href="/indian-premier-league-2013/content/series/586733.html" target="_top">Tournament home</a>
+       </li>
+       <li>
+        <img src="http://i.imgci.com/espncricinfo/ciFantasy_arrow.gif" alt="" title="" border="0" height="9" width="6"/>
+        <a class="plainLink" href="/indian-premier-league-2013/content/ground/57980.html" target="_top">Ground page</a>
+       </li>
+       <li>
+        <img src="http://i.imgci.com/espncricinfo/ciFantasy_arrow.gif" alt="" title="" border="0" height="9" width="6"/>
+        <a class="plainLink" href="/indian-premier-league-2013/content/image/index.html?object=597998" target="_top">Photos</a>
+| <a class="plainLink" href="/indian-premier-league-2013/content/gallery/index.html?object=597998;cat=current" target="_top">Gallery</a>
+       </li>
+      </ul>
+     </li>
+     <li class="right">
+      <ul>
+       <li>
+        <img src="http://i.imgci.com/espncricinfo/ciFantasy_arrow.gif" alt="" title="" border="0" height="9" width="6"/>
+        <a href="/ipl-delhi/content/team/335975.html" class="plainLink" target="_top">Daredevils home</a>
+        | <a href="/indian-premier-league-2013/content/squad/623915.html" class="plainLink" target="_top">squad</a>
+       </li>
+       <li>
+        <img src="http://i.imgci.com/espncricinfo/ciFantasy_arrow.gif" alt="" title="" border="0" height="9" width="6"/>
+        <a href="/ipl-kolkata/content/team/335971.html" class="plainLink" target="_top">KKR home</a>
+        | <a href="/indian-premier-league-2013/content/squad/623922.html" class="plainLink" target="_top">squad</a>
+       </li>
+       <li>
+        <img src="http://i.imgci.com/espncricinfo/ciFantasy_arrow.gif" alt="" title="" border="0" height="9" width="6"/>
+        <a class="plainLink" href="/indian-premier-league-2013/content/squad/627645.html" target="_top">Match officials</a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </td>
+  </tr>
+ </table>
+ </div>
+
+</div>
+
+ <script type="text/javascript">
+jQuery(document).ready(function($) {
+	
+	$(".tab_content").hide();
+	//$("ul.odiMachtbs li:first").addClass("active").show();
+	//$(".testMctb_contnr div li:first").css("background", "none"); 
+	//$("div.odiMctb_contnr .tab_content:first").show();
+	$("ul.odiMachtbs > li").live('click', function(){
+		var i = $(this).attr("id");
+		if( !$(this).hasClass("active")){
+			$(this).siblings().removeClass("active");
+			$(this).addClass("active");
+		};
+		$(this).parent().siblings("div.odiMctb_contnr").children("div").css("display", "none");
+		$(this).parent().siblings("div.odiMctb_contnr").children("div#"+i+"-content").css("display", "block");
+	});
+
+
+	//ODI and test match Tabs start
+	$(".testmctab_content").hide();
+	$("ul.tstMachtbs li:first").addClass("active").show();
+	$(".testmctab_content:first").show();
+	$("ul.tstMachtbs > li").live('click', function(){
+		var i = $(this).attr("id");
+		if( !$(this).hasClass("active")){
+			$(this).siblings().removeClass("active");
+			$(this).addClass("active");
+		};
+		$(this).parent().siblings("div.testMctb_contnr").children("div").css("display", "none");
+		$(this).parent().siblings("div.testMctb_contnr").children("div#"+i+"-content").css("display", "block");
+	});
+
+});
+</script>
+<div class="rhFrameModule" style="_margin-top:0px;*margin-top:0px;">
+ <h1 class="rhFrameHeading" style="margin:0px 0px 10px 0px;">Photos</h1>
+ <table cellpadding="0" cellspacing="0" border="0" style="clear:both;">
+  <tr>
+   <td width="152" valign="top" align="center">
+    <p class="ciPhotoGalleryDate" align="center"><b>Apr 3, 2013</b></p>
+    <a href="/indian-premier-league-2013/content/image/627959.html?object=597998;page=1" target="_top"><img src="http://p.imgci.com/db/PICTURES/CMS/156100/156193.icon.jpg" alt="Yusuf Pathan and Eoin Morgan embrace one another after leading Kolkata Knight Riders to victory, Kolkata Knight Riders v Delhi Daredevils, IPL, Kolkata, April 3, 2013" width="91" height="130" border="0"/></a>
+    <p class="ciPhotoGalleryCaption" style="margin-top:7px;">Yusuf Pathan and Eoin Morgan embrace one another after leading Kolkata Knight Riders to victory</p>
+    <p class="ciPhotoGalleryCopyright" style="margin-bottom:10px;">&copy; BCCI</p>
+   </td>
+   <td width="7"></td>
+   <td width="152" valign="top" align="center">
+    <p class="ciPhotoGalleryDate" align="center"><b>Apr 3, 2013</b></p>
+    <a href="/indian-premier-league-2013/content/image/627955.html?object=597998;page=1" target="_top"><img src="http://p.imgci.com/db/PICTURES/CMS/156100/156192.icon.jpg" alt="Eoin Morgan sweeps one leg side, Kolkata Knight Riders v Delhi Daredevils, IPL, Kolkata, April 3, 2013" width="130" height="87" border="0"/></a>
+    <p class="ciPhotoGalleryCaption" style="margin-top:7px;">Eoin Morgan sweeps one leg side</p>
+    <p class="ciPhotoGalleryCopyright" style="margin-bottom:10px;">&copy; BCCI</p>
+   </td>
+  </tr>
+ </table>
+ <p><a href="/indian-premier-league-2013/content/image/index.html?object=597998" class="boldLink" target="_top">All photos for this match</a>
+| <a href="/indian-premier-league-2013/content/gallery/index.html?object=597998;cat=current" class="boldLink" target="_top">Galleries</a>
+ </p>
+</div>
+    <div class="pnl320T"></div>
+    <div class="pnl320M">
+        <div class="div300Pad">
+
+
+<script language="JavaScript" type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/N6444/adj/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=300x250,300x600;kvpos=top;ord=' + ord + '?" type="text/javascript"><\/script>');
+ad_counter++;
+</script>
+<noscript><a href="http://ad.doubleclick.net/N6444/jump/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=300x250,300x600;kvpos=top;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/N6444/ad/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=300x250,300x600;kvpos=top;ord=123456789?" border="0" alt=""></a></noscript>
+
+
+        </div>
+    </div>
+<div class="pnl320B"></div><div class="pnl320T"></div>
+<div class="pnl320M">
+<div id="ciHomeRHSAdslot">
+     <ul>
+      <li class="left">
+    
+	
+	<a href="/ci/content/site/product/widgets/widget.html" target="_blank"><img src="http://i.imgci.com/homepage/others/widgets_125x125.gif" width="125" height="125" border="0" alt="Cricinfo Widgets" title="Cricinfo Widgets" /></a>
+	
+	
+	
+      </li>
+      <li class="right">
+
+
+<script language="JavaScript" type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/N6444/adj/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=125x125;kvpos=;ord=' + ord + '?" type="text/javascript"><\/script>');
+ad_counter++;
+</script>
+<noscript><a href="http://ad.doubleclick.net/N6444/jump/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=125x125;kvpos=;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/N6444/ad/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=125x125;kvpos=;ord=123456789?" border="0" alt=""></a></noscript>
+
+
+
+      </li>
+     </ul>
+    </div>
+</div>
+<div class="pnl320B"></div><div class="pnl320T"></div>
+<div class="pnl320M">
+ 
+ <div class="div300Pad">
+ 
+  <div class="hpSpncrHead">Sponsored Links</div>
+  <p class="ciHomeSponcerLink"><a href="/ci/content/url/744929.html" class="ciHomeSponcerLink" target="_blank"><b>Widest Range. Best Prices.</b></a></p>
+  <p class="spncrSmry">100% Replacement Or Refund. Buy Now</p>
+  <div class="divSeparator"></div>
+  <p class="ciHomeSponcerLink"><a href="/ci/content/url/695987.html" class="ciHomeSponcerLink" target="_blank"><b>The Powerful and Stylish Renault Duster</b></a></p>
+  <p class="spncrSmry">Big, Beautiful and Efficient</p>
+  <div class="divSeparator"></div>
+  <p class="ciHomeSponcerLink"><a href="/ci/content/url/646547.html" class="ciHomeSponcerLink" target="_blank"><b>Check out the brand new cricket ratings</b></a></p>
+  <p class="spncrSmry">Powered by Idea</p>
+  <div class="divSeparator"></div>
+  <p class="ciHomeSponcerLink"><a href="/ci/content/url/696025.html" class="ciHomeSponcerLink" target="_blank"><b>Time to step up to the Scala</b></a></p>
+  <p class="spncrSmry">Sophistication meets performance.</p>
+  <div class="divSeparator"></div>
+  <p class="ciHomeSponcerLink"><a href="/ci/content/url/737157.html" class="ciHomeSponcerLink" target="_blank"><b>Play Fantasy Games & Win Prizes Worth Rs. 2 Lakh</b></a></p>
+  <p class="spncrSmry">At Sportsbox360.com</p>
+ </div>
+
+</div>
+<div class="pnl320B"></div>
+
+
+
+    <div class="pnl320T"></div>
+    <div class="pnl320M">
+        <div class="div300Pad">
+
+
+<script language="JavaScript" type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/N6444/adj/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=300x250,300x600;kvpos=bottom;ord=' + ord + '?" type="text/javascript"><\/script>');
+ad_counter++;
+</script>
+<noscript><a href="http://ad.doubleclick.net/N6444/jump/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=300x250,300x600;kvpos=bottom;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/N6444/ad/espn.cricinfo.livescorecard/indianpremierleague2013;kvcluster=ind;kvpt=score;kvserobject=586733;kvstobject=;kvsite=indianpremierleague;kvteam=;kvrobject=;kvobject=;kvgnrobject=;kvauth=;kvauthid=;kvplyobject=;kvgrnobject=;kvtemobject=;kvphobject=;kvtype=;kvbrand=indianpremierleague2013;adtar=;tile='+ad_counter+';sz=300x250,300x600;kvpos=bottom;ord=123456789?" border="0" alt=""></a></noscript>
+
+
+        </div>
+    </div>
+<div class="pnl320B"></div></div>
+<div style="clear:both"><!----></div>
+
+ </div>
+
+
+<div style="clear: both;"></div>
+<div id="footer2Container">
+  <div class="footercurveleft"></div>
+  <div class="footerContentHolder">
+   <div id="cifooternav">
+    <ul>
+     <li>
+      <a href="/ci/content/site/company/site_map.html" class="maintabs">Sitemap</a><span class="maintabseperator">|</span>
+      <a href="/ci/content/submit/forms/feedback.html" class="maintabs">Feedback</a><span class="maintabseperator">|</span>      
+      <a href="/ci/content/rss/feeds_rss_cricket.html" class="maintabs">RSS</a><span class="maintabseperator">|</span>
+      <!--<a href="/ci/content/page/156050.html" class="maintabs">Contact us</a><span class="maintabseperator">|</span>-->
+      <a href="/ci/content/page/156066.html" class="maintabs">About Us</a><span class="maintabseperator">|</span>
+
+      <a href="/ci/content/site/careers/careers.html" class="maintabs">Careers</a><span class="maintabseperator">|</span>
+
+      <a href="http://disneyprivacycenter.com/" class="maintabs" target="_blank">Privacy Policy</a><span class="maintabseperator">|</span>
+      <a href="http://disneytermsofuse.com/" class="maintabs" target="_blank">Terms of Use</a>
+     </li>
+    </ul>
+    <div class="copyright">
+    &copy; ESPN Sports Media Ltd.
+    </div>
+   </div>
+   <div id="ciHomefooterlogos">
+    <ul>
+     <li class="ciespnlogoft"><a href="http://espn.co.uk/" target="_blank" title="ESPN">ESPN</a></li>
+     <li class="ciseplogoft"></li>
+     <li class="cif1logoft"><a href="http://www.espnf1.com/" target="_blank" title="ESPNF1">ESPNF1</a></li>
+     <li class="ciseplogoft"></li>
+     <li class="ciscrumlogoft"><a href="http://www.espnscrum.com" target="_blank" title="ESPN Scrum">Espn Scrum</a></li>
+     <li class="ciseplogoft"></li>
+     <li class="cisoccernetlogoft"><a href="http://soccernet.espn.go.com" target="_blank" title="Espnfc">Espnfc</a></li>
+	 <li class="ciseplogoft"></li>
+     <li class="footytips"><a href="http://footytips.com.au" target="_blank" title="Footytips">Footytips</a></li>
+    </ul>
+   </div>
+  </div>
+  <div class="footercurveright"></div>
+ </div>
+
+
+
+<!--[if IE ]>
+    	 </div>
+<![endif]-->
+
+</div>
+<!-- Main page Holder ends-->
+
+
+<script type="text/javascript" language="JavaScript">
+
+	var s_account="wdgespcricinfo";	//(Excludes Wireless)
+
+	//alert(window.location.hostname);
+	//alert(s_account);
+</script>
+
+<script language="JavaScript" type="text/javascript" src="http://www.espncricinfo.com/navigation/cricinfo/omniture/omniture_global.js?1366629718"></script>
+
+<script type="text/javascript" language="JavaScript">
+<!--
+
+//Clearing variable values for link tracking call
+function clrLnkTrckVar(){	
+	//Clear variables
+	s_omni.pageName = "";
+	s_omni.server = "";
+	s_omni.prop1 = "";
+	s_omni.prop3 = "";
+	s_omni.eVar2 = "";
+}
+
+//Link tracking like Video Tab, Video headlines, audio downloads etc.
+function lnkTrackVals(name){
+
+	//alert("Video Tab");
+	clrLnkTrckVar(); //Clear variables
+	
+	var lnkTrck = name;
+	s_omni.prop3 = s_omni.eVar2 = lnkTrck;
+	s_omni.t();
+	//alert(lnkTrck);
+	
+}
+
+/* You may give each page an identifying name, server, and channel on the next lines. */
+s_omni.server = window.location.host; // Server from the Host
+s_omni.prop1 = "cricinfo";
+
+//s_omni.pageName = omniPageName.toLowerCase(); //Omniture Page Name(S)
+
+if(typeof omniSiteSection2 != 'undefined' && typeof omniSiteSubSection3 != 'undefined'){
+	s_omni.pageName = omniSiteSection1.toLowerCase() + ":" + omniSiteSection2.toLowerCase() + ":" + omniSiteSection3.toLowerCase() + ":" + omniPageName.toLowerCase(); 	//Page name
+}else if(typeof omniSiteSection2 != 'undefined'){
+	s_omni.pageName = omniSiteSection1.toLowerCase() + ":" + omniSiteSection2.toLowerCase() + ":" + omniPageName.toLowerCase(); 												//Page name
+}else{
+	s_omni.pageName = omniSiteSection1.toLowerCase() + ":" + omniPageName.toLowerCase(); 																									//Page name
+}
+
+var omniPath = location.pathname;
+//alert(omniPath);
+if(typeof omniSiteSection1 != 'undefined'){
+	s_omni.channel = omniSiteSection1.toLowerCase();
+}
+
+//Error page variables
+if(typeof omniPageType == 'undefined'){
+	s_omni.pageType = "";
+}
+else{
+	s_omni.pageType = "errorPage";
+	s_omni.pageName = "";
+	s_omni.server = "";
+	s_omni.prop1 = "";	
+}
+
+if(typeof omniCt != 'undefined'){
+	s_omni.prop4 = omniCt.toLowerCase();	//Content type
+}
+
+if(typeof omniSiteSection2 != 'undefined' && typeof omniSiteSubSection3 != 'undefined'){
+	s_omni.prop5 = s_omni.channel + ":" +  omniSiteSection2.toLowerCase() + ":"+  omniSiteSubSection3.toLowerCase();
+}else if(typeof omniSiteSection2 != 'undefined'){
+	s_omni.prop5 = s_omni.channel + ":" +  omniSiteSection2.toLowerCase();
+}
+
+if(typeof omniStoryId != 'undefined'){
+	s_omni.prop15 = s_omni.eVar20 = omniStoryId; //Story Object id		
+}
+s_omni.prop16 = s_omni.eVar12 = cqanswer //Country where the page is viewed
+s_omni.prop17 = s_omni.eVar9 = "en" // Language Code
+
+if(typeof omniAuthId != 'undefined'){
+	s_omni.prop23 = s_omni.eVar10 = omniAuthId; //Columnist id		
+}
+
+s_omni.prop25 = s_omni.eVar19 = "cricket"; // Sport
+
+//Prop29 for capturing the Registered users
+var user_name = getCookie('un');
+if (user_name != "");
+{
+	if (user_name == null || undefined)
+	{
+		s_omni.prop29 = "anonymous";
+}
+	else
+	{
+	s_omni.prop29 = "Registered:Logged in Active";
+	}
+}
+
+//Prop32 for capturing Player and Grounds ID for the Most viewed objects
+if(typeof omniMVO != 'undefined'){
+	s_omni.prop32 = omniMVO; //Most viewed objects for Plyers and Grounds		
+}
+
+//Prop42 for capturing Hawkeye tabs
+if(typeof omniHawk != 'undefined'){
+	s_omni.prop33 = omniHawk; //capturing Hawkeye tabs	
+}
+
+s_omni.hier1 = s_omni.pageName;																	//Content Hierarchy
+if(typeof omniSrhType != 'undefined'){
+	s_omni.eVar11 = omniSrhType;
+}
+s_omni.eVar13 = s_omni.prop1 + ":" + s_omni.pageName; 						//Page name
+
+//s_omni.prop42 = omniHawk;
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s_omni.t();if(s_code)document.write(s_code)//-->
+
+</script>
+<!-- End SiteCatalyst code version: H.14. -->
+
+<script type="text/javascript" src="http://content.dl-rms.com/rms/mother/30883/nodetag.js"></script>
+
+
+
+
+
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1485530595011438']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1485530595011438&amp;ev=NoScript" /></noscript>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "3000005" });
+(function() {
+var s = document.createElement("script"), el =
+document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<!-- End comScore Tag -->
+
+    
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 26455;
+    _sf_async_config.domain = 'espncricinfo.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.authors  = 'in';
+    _sf_async_config.sections = 'Scorecards';
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+
+
+
+</body>
+</html>
+
